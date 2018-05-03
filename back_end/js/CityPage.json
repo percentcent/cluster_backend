@@ -1,0 +1,6491 @@
+{
+  "": {
+    "totalNeg": 320,
+    "trafficAccident": 300,
+    "totalPos": 104,
+    "totalTweet": 424,
+    "suburbs": {
+      "Brunswick West": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.062029697142798
+      },
+      "Edgecliff": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.20658858361528135
+      },
+      "Murrumbeena": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0005572607117265171
+      },
+      "Ivanhoe East": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.983959675783916
+      },
+      "Innamincka": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.019439835299233484
+      },
+      "Mosman Park": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.6045768996337972
+      },
+      "Parkville": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0000785182238482332
+      },
+      "Parkdale": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.20201662412861698
+      },
+      "Caulfield North": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.023185685206619136
+      },
+      "Macarthur": {
+        "totalNeg": 189,
+        "trafficAccident": 300,
+        "totalPos": 60,
+        "totalTweet": 249,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 68.59385190315852
+      },
+      "The Sill": {
+        "totalNeg": 89,
+        "trafficAccident": 300,
+        "totalPos": 31,
+        "totalTweet": 120,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 33.43800824061405
+      },
+      "Ormond": {
+        "totalNeg": 5,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.5348122376684896
+      },
+      "Black Hill": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.8553083721277965
+      },
+      "Hampton": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.0716748711154231
+      },
+      "Canberra": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.07388405044685596
+      },
+      "Brown Hill": {
+        "totalNeg": 6,
+        "trafficAccident": 300,
+        "totalPos": 4,
+        "totalTweet": 10,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 4.213650213364141
+      },
+      "Port Adelaide": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.09000115620933184
+      },
+      "Highett": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.6237902382444455
+      },
+      "Carlton": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.20305525526839002
+      },
+      "Brunswick East": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.5171725638057814
+      },
+      "Macquarie": {
+        "totalNeg": 6,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 7,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.4262598851486332
+      },
+      "Forrest": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.12747146757783742
+      },
+      "Toorak": {
+        "totalNeg": 7,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 9,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.8130833986813717
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 116.68445663317691
+  },
+  "Bellingen": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Bellingen": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.004985193684834597
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.004985193684834597
+  },
+  "Yalgoo": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Melville": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.04118578279239341
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.04118578279239341
+  },
+  "Victoria Park": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "East Victoria Park": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.3869810519712323
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.3869810519712323
+  },
+  "Penrith Municipality": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 2,
+    "suburbs": {
+      "Mulgoa": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0001970385007767622
+      },
+      "Glenmore Park": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.957724575302382
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.9579216138031588
+  },
+  "Marrickville": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 3,
+    "suburbs": {
+      "Camperdown": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9916236431278476
+      },
+      "Newtown": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.7892491450677266
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.7808727881955742
+  },
+  "Glen Eira": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 3,
+    "totalTweet": 4,
+    "suburbs": {
+      "Glen Huntly": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.18153678909257
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.18153678909257
+  },
+  "Murray Bridge": {
+    "totalNeg": 8,
+    "trafficAccident": 300,
+    "totalPos": 3,
+    "totalTweet": 11,
+    "suburbs": {
+      "Murray Bridge": {
+        "totalNeg": 8,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 11,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 3.668578579600875
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 3.668578579600875
+  },
+  "Hay": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Hay": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0036387228427724344
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.0036387228427724344
+  },
+  "Benalla": {
+    "totalNeg": 3,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 5,
+    "suburbs": {
+      "Benalla": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.2536120043810173
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.2536120043810173
+  },
+  "Cassowary Coast": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 2,
+    "suburbs": {
+      "Innisfail": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0455738109411505
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.0455738109411505
+  },
+  "Ceduna": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 3,
+    "suburbs": {
+      "Ceduna": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.21123165873925
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.21123165873925
+  },
+  "Nambucca Shire": {
+    "totalNeg": 3,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 3,
+    "suburbs": {
+      "Macksville": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.39511806794770477
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.39511806794770477
+  },
+  "Ipswich": {
+    "totalNeg": 497,
+    "trafficAccident": 300,
+    "totalPos": 188,
+    "totalTweet": 685,
+    "suburbs": {
+      "Riverview": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.4628482693036786
+      },
+      "Thagoona": {
+        "totalNeg": 11,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 13,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.883192961554054
+      },
+      "Yamanto": {
+        "totalNeg": 484,
+        "trafficAccident": 300,
+        "totalPos": 185,
+        "totalTweet": 669,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 209.2540022708652
+      },
+      "Deebing Heights": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.0240388285323887
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 213.62408233025528
+  },
+  "Shoalhaven Shire": {
+    "totalNeg": 22,
+    "trafficAccident": 300,
+    "totalPos": 4,
+    "totalTweet": 26,
+    "suburbs": {
+      "Greenwell Point": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.00008926585544434166
+      },
+      "Ulladulla": {
+        "totalNeg": 9,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 12,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 3.519708980316842
+      },
+      "Nowra": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.031808348352870816
+      },
+      "Falls Creek": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.707976796304489
+      },
+      "Berry": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9889998616084223
+      },
+      "Milton": {
+        "totalNeg": 6,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 6,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.43041769110611555
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 5.6790009435441835
+  },
+  "Charters Towers": {
+    "totalNeg": 18,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 19,
+    "suburbs": {
+      "Charters Towers": {
+        "totalNeg": 18,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 19,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.4570367106765945
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.4570367106765945
+  },
+  "Maranoa": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Roma": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.00004005599922284807
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.00004005599922284807
+  },
+  "Moorabool": {
+    "totalNeg": 10,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 12,
+    "suburbs": {
+      "Bacchus Marsh": {
+        "totalNeg": 10,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 12,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.7503142305879802
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.7503142305879802
+  },
+  "Port Macquarie-Hastings": {
+    "totalNeg": 6,
+    "trafficAccident": 300,
+    "totalPos": 4,
+    "totalTweet": 10,
+    "suburbs": {
+      "Kendall": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.6005879585597904
+      },
+      "Port Macquarie": {
+        "totalNeg": 6,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 9,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 3.3637746735011986
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 3.9643626320609893
+  },
+  "Liverpool": {
+    "totalNeg": 3,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 3,
+    "suburbs": {
+      "Holsworthy": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.3517861981636724
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.3517861981636724
+  },
+  "Blue Mountains Municipality": {
+    "totalNeg": 17,
+    "trafficAccident": 300,
+    "totalPos": 4,
+    "totalTweet": 21,
+    "suburbs": {
+      "Lawson": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.2079019698478219
+      },
+      "Blackheath": {
+        "totalNeg": 7,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 8,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.7603993972146845
+      },
+      "Katoomba": {
+        "totalNeg": 8,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 11,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.3453010110033627
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 4.31360237806587
+  },
+  "Willoughby": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Lane Cove North": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.14125667063742858
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.14125667063742858
+  },
+  "Maribyrnong": {
+    "totalNeg": 4,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 6,
+    "suburbs": {
+      "Footscray": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.03542180261630118
+      },
+      "Yarraville": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9642258249446904
+      },
+      "Maidstone": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.222200770004253
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.2218483975652448
+  },
+  "Busselton": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 3,
+    "suburbs": {
+      "Quindalup": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9962084563681533
+      },
+      "Yallingup": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.023703023921934
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.0199114802900873
+  },
+  "Dandaragan": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 1,
+    "suburbs": {
+      "Jurien Bay": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9676419389641405
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.9676419389641405
+  },
+  "Newcastle": {
+    "totalNeg": 5,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 7,
+    "suburbs": {
+      "Broadmeadow": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.03421855136187766
+      },
+      "Waratah": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.8585534694386898
+      },
+      "Beresfield": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.005628212700991104
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.8984002335015584
+  },
+  "Gundagai": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Gundagai": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.15815605004402816
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.15815605004402816
+  },
+  "Redland": {
+    "totalNeg": 6,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 6,
+    "suburbs": {
+      "Victoria Point": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.001030895263460904
+      },
+      "Redland Bay": {
+        "totalNeg": 4,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.5420111462197965
+      },
+      "Wellington Point": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.3327618222944529
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.8758038637777104
+  },
+  "Mornington Peninsula": {
+    "totalNeg": 1922,
+    "trafficAccident": 300,
+    "totalPos": 660,
+    "totalTweet": 2582,
+    "suburbs": {
+      "Merricks": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.05498272879637146
+      },
+      "Sorrento": {
+        "totalNeg": 1919,
+        "trafficAccident": 300,
+        "totalPos": 660,
+        "totalTweet": 2579,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 742.0026569445503
+      },
+      "Rosebud": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.03763460919435519
+      },
+      "McCrae": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.25935386102555447
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 742.3546281435666
+  },
+  "Yass Valley": {
+    "totalNeg": 3,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 5,
+    "suburbs": {
+      "Yass": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9895959259212086
+      },
+      "Gundaroo": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9224526797807275
+      },
+      "Murrumbateman": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.014346620493721911
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.926395226195658
+  },
+  "Burdekin": {
+    "totalNeg": 3,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 4,
+    "suburbs": {
+      "Ayr": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.261136854950475
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.261136854950475
+  },
+  "Fremantle": {
+    "totalNeg": 3,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 4,
+    "suburbs": {
+      "South Fremantle": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.07020867792091853
+      },
+      "North Fremantle": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.4164239430931223
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.4866326210140408
+  },
+  "Coober Pedy": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 1,
+    "suburbs": {
+      "Coober Pedy": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.8088665421079383
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.8088665421079383
+  },
+  "Derby-West Kimberley": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Derby": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.00014777217792724955
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.00014777217792724955
+  },
+  "Manly Vale": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 3,
+    "suburbs": {
+      "Clontarf": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.7543667011442535
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.7543667011442535
+  },
+  "West Tamar": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Beaconsfield": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.12118810258532083
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.12118810258532083
+  },
+  "Cowra": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 1,
+    "suburbs": {
+      "Cowra": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9930233447981749
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.9930233447981749
+  },
+  "Western Downs": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Dalby": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.037617791000803084
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.037617791000803084
+  },
+  "Narrandera": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Narrandera": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0662655289322197
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.0662655289322197
+  },
+  "Boroondara": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 1,
+    "suburbs": {
+      "Kew East": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9733321345584158
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.9733321345584158
+  },
+  "Gladstone": {
+    "totalNeg": 12,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 14,
+    "suburbs": {
+      "Toolooa": {
+        "totalNeg": 12,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 14,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.4185836995991337
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.4185836995991337
+  },
+  "Burnie": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Burnie": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.024157863257192293
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.024157863257192293
+  },
+  "Roxby Downs": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Roxby Downs": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.000005264146834161856
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.000005264146834161856
+  },
+  "Knox": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 3,
+    "suburbs": {
+      "Wantirna": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9777818052927507
+      },
+      "Scoresby": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.4712905116503913
+      },
+      "Wantirna South": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.7566114306583976
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.2056837476015394
+  },
+  "Whittlesea": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 2,
+    "suburbs": {
+      "Whittlesea": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.000043449661320129365
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.000043449661320129365
+  },
+  "Hobsons Bay": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 2,
+    "suburbs": {
+      "Seaholme": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.01087318258171156
+      },
+      "Altona North": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.005289636125145079
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.016162818706856638
+  },
+  "Whitehorse": {
+    "totalNeg": 6,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 6,
+    "suburbs": {
+      "Box Hill South": {
+        "totalNeg": 6,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 6,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.43044661783494287
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.43044661783494287
+  },
+  "Parkes": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 3,
+    "suburbs": {
+      "Peak Hill": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.803082615007047
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.803082615007047
+  },
+  "Dungog": {
+    "totalNeg": 3,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 3,
+    "suburbs": {
+      "Dungog": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.21871539497523756
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.21871539497523756
+  },
+  "Kentish": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 2,
+    "suburbs": {
+      "Sheffield": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.0579499847836602
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.0579499847836602
+  },
+  "Brisbane": {
+    "totalNeg": 21,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 22,
+    "suburbs": {
+      "Woolloongabba": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.03421855136187766
+      },
+      "Bridegman Downs": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0628351881747132
+      },
+      "South Brisbane": {
+        "totalNeg": 4,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.44851057800595684
+      },
+      "Rocklea": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.8345961187259243
+      },
+      "Spring Hill": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.06608532303301545
+      },
+      "Burbank": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.02188479059516128
+      },
+      "Zillmere": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.07803455136983536
+      },
+      "Ascot": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.06968451612154064
+      },
+      "Kenmore Hills": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0018279217173849404
+      },
+      "Wilston": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.2668868789910077
+      },
+      "Toowong": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.04564551486938744
+      },
+      "Chandler": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.03130055260399201
+      },
+      "Milton": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.00043608314283318243
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.9619465687126298
+  },
+  "City of Perth": {
+    "totalNeg": 8,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 8,
+    "suburbs": {
+      "East Perth": {
+        "totalNeg": 8,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 8,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.4441859698682945
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.4441859698682945
+  },
+  "Wagga Wagga": {
+    "totalNeg": 6,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 8,
+    "suburbs": {
+      "Springvale": {
+        "totalNeg": 5,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 7,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.128537124320548
+      },
+      "Wagga Wagga": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.010206634820908993
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.138743759141457
+  },
+  "Colac-Otway": {
+    "totalNeg": 4,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 5,
+    "suburbs": {
+      "Colac": {
+        "totalNeg": 4,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9700510000704126
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.9700510000704126
+  },
+  "Hawkesbury": {
+    "totalNeg": 5,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 7,
+    "suburbs": {
+      "Richmond": {
+        "totalNeg": 4,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 6,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.429973027510069
+      },
+      "Pitt Town": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.04241571528024099
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.47238874279031
+  },
+  "Central Goldfields": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 2,
+    "suburbs": {
+      "Maryborough": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.6893581518556535
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.6893581518556535
+  },
+  "Camden": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 3,
+    "suburbs": {
+      "Camden South": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.614842573026238
+      },
+      "Elderslie": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.6768766160423475
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.2917191890685855
+  },
+  "Kalgoorlie/Boulder": {
+    "totalNeg": 3,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 4,
+    "suburbs": {
+      "Boulder": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.1554997576760788
+      },
+      "Kalgoorlie": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.04426890452130745
+      },
+      "Stoneville": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.04448087188783791
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.244249534085224
+  },
+  "Wongan-Ballidu": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 2,
+    "suburbs": {
+      "Wongan Hills": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.47890370514868114
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.47890370514868114
+  },
+  "Gunnedah": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Gunnedah": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.04376612888574948
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.04376612888574948
+  },
+  "Liverpool Plains": {
+    "totalNeg": 8,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 10,
+    "suburbs": {
+      "Quirindi": {
+        "totalNeg": 8,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 10,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 3.031708839532271
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 3.031708839532271
+  },
+  "Lockyer Valley": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 3,
+    "totalTweet": 5,
+    "suburbs": {
+      "Gatton": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 3.0866231299113336
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 3.0866231299113336
+  },
+  "Ravensthorpe": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 1,
+    "suburbs": {
+      "Ravensthorpe": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.8841305286925042
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.8841305286925042
+  },
+  "Bayside": {
+    "totalNeg": 3,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 3,
+    "suburbs": {
+      "Hampton East": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.1687255800913442
+      },
+      "North Brighton": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.015911661197654116
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.1846372412889983
+  },
+  "Wyndham": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 2,
+    "suburbs": {
+      "Werribee South": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9202967353614405
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.9202967353614405
+  },
+  "Surf Coast": {
+    "totalNeg": 5,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 6,
+    "suburbs": {
+      "Anglesea": {
+        "totalNeg": 5,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 6,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.7948800381554952
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.7948800381554952
+  },
+  "Goulburn Mulwaree": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 2,
+    "suburbs": {
+      "Goulburn": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.0181855066627103
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.0181855066627103
+  },
+  "Ballina": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 2,
+    "suburbs": {
+      "Ballina": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.039657744998515064
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.039657744998515064
+  },
+  "Lachlan": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 2,
+    "suburbs": {
+      "Condobolin": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.09363702585034533
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.09363702585034533
+  },
+  "Joondalup": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Mullaloo": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.2431924155753312
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.2431924155753312
+  },
+  "Moreton Bay": {
+    "totalNeg": 6,
+    "trafficAccident": 300,
+    "totalPos": 4,
+    "totalTweet": 10,
+    "suburbs": {
+      "Morayfield": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.07296405476999097
+      },
+      "Woodford": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.2864664987538617
+      },
+      "Narangba": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.00023952341826634526
+      },
+      "Bongaree": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 4,
+        "totalTweet": 6,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.959409916423711
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 3.31907999336583
+  },
+  "Whitsunday": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 2,
+    "suburbs": {
+      "Proserpine": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.323946607715653
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.323946607715653
+  },
+  "Muswellbrook": {
+    "totalNeg": 3,
+    "trafficAccident": 300,
+    "totalPos": 4,
+    "totalTweet": 7,
+    "suburbs": {
+      "Muswellbrook": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 6,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 3.384297726317014
+      },
+      "Denman": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9337616768483288
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 4.318059403165344
+  },
+  "Eurobodalla": {
+    "totalNeg": 5,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 7,
+    "suburbs": {
+      "Batemans Bay": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.4745505102402403
+      },
+      "Broulee": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.006432406353113926
+      },
+      "Moruya": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.010612235793178187
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.4915951523865323
+  },
+  "Sunshine Coast": {
+    "totalNeg": 51,
+    "trafficAccident": 300,
+    "totalPos": 28,
+    "totalTweet": 79,
+    "suburbs": {
+      "Noosa Heads": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0002665773513627943
+      },
+      "Buderim": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9818335805412662
+      },
+      "Woombye": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.051528501252124
+      },
+      "Nambour": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.8813387638738233
+      },
+      "Yandina": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0034940851415095594
+      },
+      "Tinbeerwah": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9984265656428184
+      },
+      "Little Mountain": {
+        "totalNeg": 48,
+        "trafficAccident": 300,
+        "totalPos": 22,
+        "totalTweet": 70,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 22.45714364237312
+      },
+      "Caloundra": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.8012302787390417
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 28.175261994915065
+  },
+  "Mount Barker": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 3,
+    "suburbs": {
+      "Meadows": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.9771525730820292
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.9771525730820292
+  },
+  "Flinders": {
+    "totalNeg": 4,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 4,
+    "suburbs": {
+      "Hughenden": {
+        "totalNeg": 4,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.143369372008223
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.143369372008223
+  },
+  "Great Lakes": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 3,
+    "suburbs": {
+      "Forster": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.0208735630212535
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.0208735630212535
+  },
+  "Narrabri": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Boggabri": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0000329113074837351
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.0000329113074837351
+  },
+  "Ashburton": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Tom Price": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.03421855136187766
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.03421855136187766
+  },
+  "Plantagenet Shire": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Mount Barker": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.17911318043352384
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.17911318043352384
+  },
+  "Mandurah": {
+    "totalNeg": 496,
+    "trafficAccident": 300,
+    "totalPos": 176,
+    "totalTweet": 672,
+    "suburbs": {
+      "Erskine": {
+        "totalNeg": 496,
+        "trafficAccident": 300,
+        "totalPos": 176,
+        "totalTweet": 672,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 196.93370600716418
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 196.93370600716418
+  },
+  "Cloncurry": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Cloncurry": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.007087575755723181
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.007087575755723181
+  },
+  "Tablelands": {
+    "totalNeg": 3,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 5,
+    "suburbs": {
+      "Mareeba": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.03421855136187766
+      },
+      "Atherton": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.022514476654928423
+      },
+      "Kuranda": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.0084859107927246
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.065218938809531
+  },
+  "Kingborough": {
+    "totalNeg": 6,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 7,
+    "suburbs": {
+      "Kingston Beach": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.2648917066735697
+      },
+      "Blackmans Bay": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9760003995984319
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.2408921062720015
+  },
+  "Wollondilly": {
+    "totalNeg": 1733,
+    "trafficAccident": 300,
+    "totalPos": 572,
+    "totalTweet": 2305,
+    "suburbs": {
+      "Douglas Park": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.04740971559806909
+      },
+      "Oakdale": {
+        "totalNeg": 1722,
+        "trafficAccident": 300,
+        "totalPos": 571,
+        "totalTweet": 2293,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 648.7860649074082
+      },
+      "Buxton": {
+        "totalNeg": 10,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 11,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.7208028626931233
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 650.5542774856995
+  },
+  "Moyne": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Port Fairy": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.005163014371154094
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.005163014371154094
+  },
+  "Blacktown": {
+    "totalNeg": 3,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 3,
+    "suburbs": {
+      "Hassall Grove": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.00027723641612070087
+      },
+      "Mount Druitt": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.03421855136187766
+      },
+      "Doonside": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.06409534284679597
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.09859113062479433
+  },
+  "Warringah": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Brookvale": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.07140061457833125
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.07140061457833125
+  },
+  "Frankston": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 1,
+    "suburbs": {
+      "Carrum Downs": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.6839913944706932
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.6839913944706932
+  },
+  "Bundaberg": {
+    "totalNeg": 5,
+    "trafficAccident": 300,
+    "totalPos": 3,
+    "totalTweet": 8,
+    "suburbs": {
+      "Sharon": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 6,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 3.049233370850473
+      },
+      "Bundaberg": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.005149811657099332
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 3.0543831825075722
+  },
+  "Augusta-Margaret River Shire": {
+    "totalNeg": 123,
+    "trafficAccident": 300,
+    "totalPos": 33,
+    "totalTweet": 156,
+    "suburbs": {
+      "Margaret River": {
+        "totalNeg": 4,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.2873902713582648
+      },
+      "Augusta": {
+        "totalNeg": 119,
+        "trafficAccident": 300,
+        "totalPos": 32,
+        "totalTweet": 151,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 38.637938366605155
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 39.92532863796342
+  },
+  "Wyong Shire": {
+    "totalNeg": 94,
+    "trafficAccident": 300,
+    "totalPos": 38,
+    "totalTweet": 132,
+    "suburbs": {
+      "Little Jilliby": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0008258616483787524
+      },
+      "Jilliby": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.3558886770742374
+      },
+      "Kingfisher Shores": {
+        "totalNeg": 90,
+        "trafficAccident": 300,
+        "totalPos": 38,
+        "totalTweet": 128,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 38.55524339863695
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 38.91195793735956
+  },
+  "Marion": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 2,
+    "suburbs": {
+      "Sturt": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.06843710272375532
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.06843710272375532
+  },
+  "Wingecarribee": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 3,
+    "suburbs": {
+      "Moss Vale": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.7341289822037655
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.7341289822037655
+  },
+  "Glenorchy": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Lutana": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.03694594011337682
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.03694594011337682
+  },
+  "Lane Cove": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 2,
+    "suburbs": {
+      "Greenwich": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.02582637126721878
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.02582637126721878
+  },
+  "Alpine": {
+    "totalNeg": 6,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 6,
+    "suburbs": {
+      "Mount Beauty": {
+        "totalNeg": 6,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 6,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.6865161723959199
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.6865161723959199
+  },
+  "Mildura Shire": {
+    "totalNeg": 14,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 16,
+    "suburbs": {
+      "Ouyen": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.5647500398941877
+      },
+      "Mildura": {
+        "totalNeg": 11,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 13,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.60530059229996
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 3.1700506321941475
+  },
+  "Cessnock": {
+    "totalNeg": 33,
+    "trafficAccident": 300,
+    "totalPos": 11,
+    "totalTweet": 44,
+    "suburbs": {
+      "Kurri Kurri": {
+        "totalNeg": 23,
+        "trafficAccident": 300,
+        "totalPos": 8,
+        "totalTweet": 31,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 8.875777362282722
+      },
+      "Cessnock": {
+        "totalNeg": 7,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 10,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 3.1519032136962952
+      },
+      "Heddon Greta": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.15582297829999225
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 12.18350355427901
+  },
+  "Goondiwindi": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 1,
+    "suburbs": {
+      "Goondiwindi": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9304520760875293
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.9304520760875293
+  },
+  "Gosford Shire": {
+    "totalNeg": 137,
+    "trafficAccident": 300,
+    "totalPos": 37,
+    "totalTweet": 174,
+    "suburbs": {
+      "Avoca Beach": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.05570525813180583
+      },
+      "Point Clare": {
+        "totalNeg": 6,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 8,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.459650305460257
+      },
+      "Umina": {
+        "totalNeg": 130,
+        "trafficAccident": 300,
+        "totalPos": 35,
+        "totalTweet": 165,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 38.92625404957153
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 41.441609613163614
+  },
+  "Playford": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Angle Vale": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.1583861241600498
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.1583861241600498
+  },
+  "Copper Coast": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Wallaroo": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.04954315598140031
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.04954315598140031
+  },
+  "Randwick": {
+    "totalNeg": 15,
+    "trafficAccident": 300,
+    "totalPos": 10,
+    "totalTweet": 25,
+    "suburbs": {
+      "Daceyville": {
+        "totalNeg": 14,
+        "trafficAccident": 300,
+        "totalPos": 10,
+        "totalTweet": 24,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 10.0731430854644
+      },
+      "Matraville": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.2355188597905696
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 10.30866194525497
+  },
+  "Unley": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Unley": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.25935386102555447
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.25935386102555447
+  },
+  "Horsham": {
+    "totalNeg": 4,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 6,
+    "suburbs": {
+      "Horsham": {
+        "totalNeg": 4,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 6,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.8760716386091894
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.8760716386091894
+  },
+  "Alexandrina": {
+    "totalNeg": 8,
+    "trafficAccident": 300,
+    "totalPos": 4,
+    "totalTweet": 12,
+    "suburbs": {
+      "Goolwa": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.013110473427946592
+      },
+      "Strathalbyn": {
+        "totalNeg": 7,
+        "trafficAccident": 300,
+        "totalPos": 4,
+        "totalTweet": 11,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.8836097466146335
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.8967202200425803
+  },
+  "Rockhampton": {
+    "totalNeg": 4,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 6,
+    "suburbs": {
+      "Yeppoon": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.512329587604679
+      },
+      "West Rockhampton": {
+        "totalNeg": 4,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.28243665472676
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.794766242331439
+  },
+  "Singleton": {
+    "totalNeg": 7,
+    "trafficAccident": 300,
+    "totalPos": 6,
+    "totalTweet": 13,
+    "suburbs": {
+      "Singleton": {
+        "totalNeg": 7,
+        "trafficAccident": 300,
+        "totalPos": 6,
+        "totalTweet": 13,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 6.518227651367043
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 6.518227651367043
+  },
+  "Dubbo Municipality": {
+    "totalNeg": 9,
+    "trafficAccident": 300,
+    "totalPos": 4,
+    "totalTweet": 13,
+    "suburbs": {
+      "Dubbo": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.8810798042696757
+      },
+      "Eulomogo": {
+        "totalNeg": 7,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 10,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 3.203284737346522
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 4.084364541616198
+  },
+  "Bathurst Regional": {
+    "totalNeg": 22,
+    "trafficAccident": 300,
+    "totalPos": 6,
+    "totalTweet": 28,
+    "suburbs": {
+      "Perthville": {
+        "totalNeg": 22,
+        "trafficAccident": 300,
+        "totalPos": 6,
+        "totalTweet": 28,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 7.327220238796435
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 7.327220238796435
+  },
+  "Central Highlands": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Emerald": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.024899288127077358
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.024899288127077358
+  },
+  "Orange Municipality": {
+    "totalNeg": 6,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 7,
+    "suburbs": {
+      "Orange": {
+        "totalNeg": 6,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 7,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.730261385339865
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.730261385339865
+  },
+  "Mount Gambier": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 4,
+    "totalTweet": 5,
+    "suburbs": {
+      "Mount Gambier": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 4,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 3.610680931258438
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 3.610680931258438
+  },
+  "Botany Bay": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Mascot": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0002182438000480294
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.0002182438000480294
+  },
+  "Cairns": {
+    "totalNeg": 36,
+    "trafficAccident": 300,
+    "totalPos": 18,
+    "totalTweet": 54,
+    "suburbs": {
+      "Port Douglas": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.41121335973741857
+      },
+      "Cairns": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.5837893958696144
+      },
+      "Woree": {
+        "totalNeg": 34,
+        "trafficAccident": 300,
+        "totalPos": 17,
+        "totalTweet": 51,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 18.36115929171481
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 19.356162047321842
+  },
+  "Deniliquin": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Deniliquin": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0012762543703123115
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.0012762543703123115
+  },
+  "Kiama": {
+    "totalNeg": 62,
+    "trafficAccident": 300,
+    "totalPos": 17,
+    "totalTweet": 79,
+    "suburbs": {
+      "Gerringong": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.03421855136187766
+      },
+      "Jamberoo": {
+        "totalNeg": 59,
+        "trafficAccident": 300,
+        "totalPos": 14,
+        "totalTweet": 73,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 17.897071275832694
+      },
+      "Kiama": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 3.1346952129005747
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 21.06598504009515
+  },
+  "Whyalla": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 1,
+    "suburbs": {
+      "Whyalla": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9975348982942972
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.9975348982942972
+  },
+  "Snowy River": {
+    "totalNeg": 3,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 3,
+    "suburbs": {
+      "Jindabyne": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.4532918814280655
+      },
+      "Berridale": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0026266098190675566
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.455918491247133
+  },
+  "West Coast": {
+    "totalNeg": 20,
+    "trafficAccident": 300,
+    "totalPos": 8,
+    "totalTweet": 28,
+    "suburbs": {
+      "Rosebery": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0027686852550757777
+      },
+      "Queenstown": {
+        "totalNeg": 19,
+        "trafficAccident": 300,
+        "totalPos": 8,
+        "totalTweet": 27,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 8.682152323465132
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 8.684921008720208
+  },
+  "Toodyay": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Toodyay": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.01498977783533009
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.01498977783533009
+  },
+  "Adelaide": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "North Adelaide": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.08728677558341717
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.08728677558341717
+  },
+  "Break O'Day": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 3,
+    "suburbs": {
+      "St Helens": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.4732091287103652
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.4732091287103652
+  },
+  "Wollongong": {
+    "totalNeg": 6,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 8,
+    "suburbs": {
+      "Helensburgh": {
+        "totalNeg": 4,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.200599730162633
+      },
+      "Bulli": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0003623064496349385
+      },
+      "Mount Saint Thomas": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9779637912220139
+      },
+      "Corrimal": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.4677897541376396
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.6467155819719217
+  },
+  "Devonport": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Devonport": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.47133328099496036
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.47133328099496036
+  },
+  "Port Phillip": {
+    "totalNeg": 15,
+    "trafficAccident": 300,
+    "totalPos": 3,
+    "totalTweet": 18,
+    "suburbs": {
+      "St Kilda West": {
+        "totalNeg": 5,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.713606620985731
+      },
+      "Elwood": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0007087688686168301
+      },
+      "Middle Park": {
+        "totalNeg": 5,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 7,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.21328613816704
+      },
+      "St Kilda East": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.008556816492139007
+      },
+      "Port Melbourne": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.6346042499654029
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 3.5707625944789294
+  },
+  "Greater Bendigo": {
+    "totalNeg": 28,
+    "trafficAccident": 300,
+    "totalPos": 7,
+    "totalTweet": 35,
+    "suburbs": {
+      "Kangaroo Flat": {
+        "totalNeg": 26,
+        "trafficAccident": 300,
+        "totalPos": 5,
+        "totalTweet": 31,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 4.918544021761173
+      },
+      "Kennington": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.097379954818477
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 7.015923976579649
+  },
+  "Sutherland Shire": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 1,
+    "suburbs": {
+      "Bundeena": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9996981233965657
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.9996981233965657
+  },
+  "Darebin": {
+    "totalNeg": 4,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 4,
+    "suburbs": {
+      "Fairfield": {
+        "totalNeg": 4,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.646266754875072
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.646266754875072
+  },
+  "Fairfield": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 3,
+    "suburbs": {
+      "Horsley Park": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.07470800362741734
+      },
+      "Cecil Park": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.1818986814815933
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.2566066851090105
+  },
+  "Launceston": {
+    "totalNeg": 19,
+    "trafficAccident": 300,
+    "totalPos": 3,
+    "totalTweet": 22,
+    "suburbs": {
+      "Summerhill": {
+        "totalNeg": 19,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 22,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 5.365519292139036
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 5.365519292139036
+  },
+  "Subiaco": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 1,
+    "suburbs": {
+      "Crawley": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.5224949802888963
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.5224949802888963
+  },
+  "Streaky Bay": {
+    "totalNeg": 23,
+    "trafficAccident": 300,
+    "totalPos": 6,
+    "totalTweet": 29,
+    "suburbs": {
+      "Streaky Bay": {
+        "totalNeg": 23,
+        "trafficAccident": 300,
+        "totalPos": 6,
+        "totalTweet": 29,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 7.950071886977023
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 7.950071886977023
+  },
+  "Tweed": {
+    "totalNeg": 17,
+    "trafficAccident": 300,
+    "totalPos": 11,
+    "totalTweet": 28,
+    "suburbs": {
+      "Pottsville Beach": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.3368730982133434
+      },
+      "Murwillumbah": {
+        "totalNeg": 15,
+        "trafficAccident": 300,
+        "totalPos": 9,
+        "totalTweet": 24,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 9.117598806430253
+      },
+      "Casuarina": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.7518551731932419
+      },
+      "Tweed Heads West": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.6365763268582547
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 10.842903404695097
+  },
+  "Tamworth Municipality": {
+    "totalNeg": 17,
+    "trafficAccident": 300,
+    "totalPos": 7,
+    "totalTweet": 24,
+    "suburbs": {
+      "Phillip": {
+        "totalNeg": 15,
+        "trafficAccident": 300,
+        "totalPos": 7,
+        "totalTweet": 22,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 6.492617795662739
+      },
+      "Manilla": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.07853587635819953
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 6.571153672020939
+  },
+  "Port Lincoln": {
+    "totalNeg": 7,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 8,
+    "suburbs": {
+      "Port Lincoln": {
+        "totalNeg": 7,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 8,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.7383637619578487
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.7383637619578487
+  },
+  "Capel": {
+    "totalNeg": 5,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 5,
+    "suburbs": {
+      "Capel": {
+        "totalNeg": 5,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.13697084618792107
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.13697084618792107
+  },
+  "Casey": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 1,
+    "suburbs": {
+      "Tooradin": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9971985746245551
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.9971985746245551
+  },
+  "Baw Baw": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Warragul": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.2838489683238986
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.2838489683238986
+  },
+  "Clarence": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Cambridge": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.005156337342377952
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.005156337342377952
+  },
+  "Wodonga": {
+    "totalNeg": 12,
+    "trafficAccident": 300,
+    "totalPos": 6,
+    "totalTweet": 18,
+    "suburbs": {
+      "Wodonga": {
+        "totalNeg": 12,
+        "trafficAccident": 300,
+        "totalPos": 6,
+        "totalTweet": 18,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 5.686769601122353
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 5.686769601122353
+  },
+  "Stonnington": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 1,
+    "suburbs": {
+      "Malvern East": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.991648331128065
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.991648331128065
+  },
+  "Greater Geelong": {
+    "totalNeg": 54,
+    "trafficAccident": 300,
+    "totalPos": 25,
+    "totalTweet": 79,
+    "suburbs": {
+      "Leopold": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.9766940663318497
+      },
+      "Bell Post Hill": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.11245756291199394
+      },
+      "Bell Park": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.12139199203459082
+      },
+      "Clifton Springs": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.4215363904904441
+      },
+      "Wandana Heights": {
+        "totalNeg": 46,
+        "trafficAccident": 300,
+        "totalPos": 22,
+        "totalTweet": 68,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 24.076309939446478
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 27.708389951215363
+  },
+  "Corowa Shire": {
+    "totalNeg": 7,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 8,
+    "suburbs": {
+      "Corowa": {
+        "totalNeg": 7,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 8,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.1107878435902738
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.1107878435902738
+  },
+  "Armadale": {
+    "totalNeg": 4,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 5,
+    "suburbs": {
+      "Harrisdale": {
+        "totalNeg": 4,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.9315041023116426
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.9315041023116426
+  },
+  "Huon Valley": {
+    "totalNeg": 37,
+    "trafficAccident": 300,
+    "totalPos": 27,
+    "totalTweet": 64,
+    "suburbs": {
+      "Huonville": {
+        "totalNeg": 37,
+        "trafficAccident": 300,
+        "totalPos": 27,
+        "totalTweet": 64,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 25.82708293156207
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 25.82708293156207
+  },
+  "Sorell": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Sorell": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.00019727162510578585
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.00019727162510578585
+  },
+  "Mansfield": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Mansfield": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.1541994872442639
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.1541994872442639
+  },
+  "Bega Valley": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 2,
+    "suburbs": {
+      "Bermagui": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.1554133997254181
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.1554133997254181
+  },
+  "Kimba": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Caralue": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.04996013864140112
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.04996013864140112
+  },
+  "Mount Alexander": {
+    "totalNeg": 7,
+    "trafficAccident": 300,
+    "totalPos": 3,
+    "totalTweet": 10,
+    "suburbs": {
+      "Castlemaine": {
+        "totalNeg": 7,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 10,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.6612598318879033
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.6612598318879033
+  },
+  "East Pilbara": {
+    "totalNeg": 6,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 6,
+    "suburbs": {
+      "Newman": {
+        "totalNeg": 6,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 6,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.7573843338759458
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.7573843338759458
+  },
+  "Mount Isa": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Mount Isa": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.03421855136187766
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.03421855136187766
+  },
+  "Palerang": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 3,
+    "suburbs": {
+      "Bungendore": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.8591064278896355
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.8591064278896355
+  },
+  "Denmark": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 2,
+    "suburbs": {
+      "Denmark": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.9076796132416103
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.9076796132416103
+  },
+  "Wellington": {
+    "totalNeg": 8,
+    "trafficAccident": 300,
+    "totalPos": 4,
+    "totalTweet": 12,
+    "suburbs": {
+      "Sale": {
+        "totalNeg": 8,
+        "trafficAccident": 300,
+        "totalPos": 4,
+        "totalTweet": 12,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 4.5110084611420636
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 4.5110084611420636
+  },
+  "Yarra Ranges": {
+    "totalNeg": 6,
+    "trafficAccident": 300,
+    "totalPos": 5,
+    "totalTweet": 11,
+    "suburbs": {
+      "Mount Evelyn": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9963074093128801
+      },
+      "Yarra Glen": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.08471155764729851
+      },
+      "Badger Creek": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.006556998177499
+      },
+      "Millgrove": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.9339260052569305
+      },
+      "Belgrave South": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.08359287693840287
+      },
+      "Chirnside Park": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9740642265365653
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 5.079159073869576
+  },
+  "Armidale Dumaresq": {
+    "totalNeg": 4,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 5,
+    "suburbs": {
+      "Enmore": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.06437078948704457
+      },
+      "Armidale": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.0295949305409844
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.0939657200280288
+  },
+  "Bass Coast": {
+    "totalNeg": 7,
+    "trafficAccident": 300,
+    "totalPos": 6,
+    "totalTweet": 13,
+    "suburbs": {
+      "Phillip Island": {
+        "totalNeg": 7,
+        "trafficAccident": 300,
+        "totalPos": 6,
+        "totalTweet": 13,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 5.649492006642171
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 5.649492006642171
+  },
+  "Derwent Valley": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "New Norfolk": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0004660814810557007
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.0004660814810557007
+  },
+  "Canterbury": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 2,
+    "suburbs": {
+      "Roselands": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.10946587691066811
+      },
+      "Canterbury": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.004886862190756988
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.1143527391014251
+  },
+  "Esperance Shire": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Esperance": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0014688175558028455
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.0014688175558028455
+  },
+  "Waverley": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 3,
+    "suburbs": {
+      "Bondi Junction": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.6823934917944926
+      },
+      "Bondi": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.31275638246008525
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.9951498742545779
+  },
+  "Yorke Peninsula": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 2,
+    "suburbs": {
+      "Honiton": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9978231776964563
+      },
+      "Maitland": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.016695709033785224
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.0145188867302415
+  },
+  "Geraldton-Greenough": {
+    "totalNeg": 7,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 9,
+    "suburbs": {
+      "Waggrakine": {
+        "totalNeg": 4,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.1341773598901166
+      },
+      "Geraldton": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9675473972231541
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.1017247571132702
+  },
+  "Pittwater": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Warriewood": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.008199918032956095
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.008199918032956095
+  },
+  "Berri and Barmera": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 1,
+    "suburbs": {
+      "Barmera": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9702347373743626
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.9702347373743626
+  },
+  "Lismore Municipality": {
+    "totalNeg": 11,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 13,
+    "suburbs": {
+      "Lismore": {
+        "totalNeg": 11,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 13,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 3.165757436186662
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 3.165757436186662
+  },
+  "Onkaparinga": {
+    "totalNeg": 295,
+    "trafficAccident": 300,
+    "totalPos": 104,
+    "totalTweet": 399,
+    "suburbs": {
+      "McLaren Vale": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.26125804705280126
+      },
+      "Aldinga": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.7548285973898117
+      },
+      "Port Willunga": {
+        "totalNeg": 291,
+        "trafficAccident": 300,
+        "totalPos": 102,
+        "totalTweet": 393,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 117.69537006257639
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 119.71145670701901
+  },
+  "Bombala": {
+    "totalNeg": 5,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 5,
+    "suburbs": {
+      "Bombala": {
+        "totalNeg": 5,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.24746249870653575
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.24746249870653575
+  },
+  "Southern Grampians": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 1,
+    "suburbs": {
+      "Hamilton": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9780638912393995
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.9780638912393995
+  },
+  "Murray": {
+    "totalNeg": 3,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 3,
+    "suburbs": {
+      "Pinjarra": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.47942749414001323
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.47942749414001323
+  },
+  "Byron Shire": {
+    "totalNeg": 11,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 12,
+    "suburbs": {
+      "Brunswick Heads": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.25935386102555447
+      },
+      "Federal": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9437973915678638
+      },
+      "Byron Bay": {
+        "totalNeg": 10,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 10,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.3332264936208722
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.5363777462142902
+  },
+  "North Sydney": {
+    "totalNeg": 6,
+    "trafficAccident": 300,
+    "totalPos": 5,
+    "totalTweet": 11,
+    "suburbs": {
+      "Crows Nest": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 6,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.8446576273803648
+      },
+      "North Sydney": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.6834664002710629
+      },
+      "Milsons Point": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.013110473427946592
+      },
+      "Neutral Bay": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9841652365904853
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 4.52539973766986
+  },
+  "City of Sydney": {
+    "totalNeg": 5,
+    "trafficAccident": 300,
+    "totalPos": 6,
+    "totalTweet": 11,
+    "suburbs": {
+      "Chippendale": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0020189278061295323
+      },
+      "Alexandria": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.0702278603901811
+      },
+      "Sydney": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.8097622638141163
+      },
+      "Haberfield": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.884245830334989
+      },
+      "Darlinghurst": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.014683063712812
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 5.780937946058229
+  },
+  "Ararat": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Ararat": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.010861808294439666
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.010861808294439666
+  },
+  "Melton": {
+    "totalNeg": 7,
+    "trafficAccident": 300,
+    "totalPos": 3,
+    "totalTweet": 10,
+    "suburbs": {
+      "Brookfield": {
+        "totalNeg": 7,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 10,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.687012326541953
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.687012326541953
+  },
+  "Port Hedland": {
+    "totalNeg": 11,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 11,
+    "suburbs": {
+      "Port Hedland": {
+        "totalNeg": 11,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 11,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.1584456902930056
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.1584456902930056
+  },
+  "Warrumbungle Shire": {
+    "totalNeg": 7,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 7,
+    "suburbs": {
+      "Coonabarabran": {
+        "totalNeg": 7,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 7,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.07962222804201756
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.07962222804201756
+  },
+  "Townsville": {
+    "totalNeg": 44,
+    "trafficAccident": 300,
+    "totalPos": 12,
+    "totalTweet": 56,
+    "suburbs": {
+      "Bohle Plains": {
+        "totalNeg": 43,
+        "trafficAccident": 300,
+        "totalPos": 12,
+        "totalTweet": 55,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 13.338783825187395
+      },
+      "Magnetic Island": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.25935386102555447
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 13.598137686212949
+  },
+  "Port Stephens Shire": {
+    "totalNeg": 7,
+    "trafficAccident": 300,
+    "totalPos": 3,
+    "totalTweet": 10,
+    "suburbs": {
+      "Port Stephens": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9771700866352332
+      },
+      "Medowie": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.1473685497137254
+      },
+      "Corlette": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.269009854569351
+      },
+      "Nelson Bay": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.07963050590766034
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 3.47317899682597
+  },
+  "Ballarat North": {
+    "totalNeg": 21,
+    "trafficAccident": 300,
+    "totalPos": 12,
+    "totalTweet": 33,
+    "suburbs": {
+      "Golden Point": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.5465677320885951
+      },
+      "Delacombe": {
+        "totalNeg": 19,
+        "trafficAccident": 300,
+        "totalPos": 12,
+        "totalTweet": 31,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 11.083521407649496
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 11.63008913973809
+  },
+  "Swan": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 2,
+    "suburbs": {
+      "Henley Brook": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.10810260180873363
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.10810260180873363
+  },
+  "Broken Hill Municipality": {
+    "totalNeg": 11,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 13,
+    "suburbs": {
+      "Broken Hill": {
+        "totalNeg": 11,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 13,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.2674722134150618
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.2674722134150618
+  },
+  "Broome": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 2,
+    "suburbs": {
+      "Broome": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.2971260396239543
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.2971260396239543
+  },
+  "Kempsey": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 2,
+    "suburbs": {
+      "Kempsey": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0005166934636562913
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.0005166934636562913
+  },
+  "Kangaroo Island": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 3,
+    "suburbs": {
+      "Kingscote": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.7391410872588695
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.7391410872588695
+  },
+  "Rockingham": {
+    "totalNeg": 4,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 5,
+    "suburbs": {
+      "Port Kennedy": {
+        "totalNeg": 4,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.5098951745579823
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.5098951745579823
+  },
+  "Coffs Harbour": {
+    "totalNeg": 6,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 7,
+    "suburbs": {
+      "Bonville": {
+        "totalNeg": 4,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.4499390943111212
+      },
+      "Woolgoolga": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.371817201676847
+      },
+      "Boambee": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.2946105775599606
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.116366873547929
+  },
+  "Tea Tree Gully": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Hope Valley": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.06485453946964091
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.06485453946964091
+  },
+  "Greater Taree": {
+    "totalNeg": 10,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 11,
+    "suburbs": {
+      "Harrington": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.0921996499931206
+      },
+      "Taree": {
+        "totalNeg": 5,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.5749955823049235
+      },
+      "Old Bar": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.21642043837483688
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.8836156706728808
+  },
+  "Wattle Range": {
+    "totalNeg": 84,
+    "trafficAccident": 300,
+    "totalPos": 25,
+    "totalTweet": 109,
+    "suburbs": {
+      "Millicent": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.0444906669219356
+      },
+      "Penola": {
+        "totalNeg": 81,
+        "trafficAccident": 300,
+        "totalPos": 24,
+        "totalTweet": 105,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 29.706541205697473
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 30.751031872619404
+  },
+  "Darwin": {
+    "totalNeg": 15,
+    "trafficAccident": 300,
+    "totalPos": 9,
+    "totalTweet": 24,
+    "suburbs": {
+      "Parap": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.6330343385934912
+      },
+      "Larrakeyah": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.0027680084256727
+      },
+      "Darwin": {
+        "totalNeg": 13,
+        "trafficAccident": 300,
+        "totalPos": 7,
+        "totalTweet": 20,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 8.197682717256104
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 9.83348506427527
+  },
+  "Wangaratta": {
+    "totalNeg": 6,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 6,
+    "suburbs": {
+      "Wangaratta": {
+        "totalNeg": 6,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 6,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9035863995920536
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.9035863995920536
+  },
+  "Berrigan": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Finley": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.03421855136187766
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.03421855136187766
+  },
+  "Hume": {
+    "totalNeg": 6,
+    "trafficAccident": 300,
+    "totalPos": 11,
+    "totalTweet": 17,
+    "suburbs": {
+      "Diggers Rest": {
+        "totalNeg": 5,
+        "trafficAccident": 300,
+        "totalPos": 8,
+        "totalTweet": 13,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 7.298162388048479
+      },
+      "Roxburgh Park": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0017869981481251178
+      },
+      "Sunbury": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.622751153246966
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 9.922700539443571
+  },
+  "Northern Grampians": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 4,
+    "suburbs": {
+      "Stawell": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.946248814300672
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.946248814300672
+  },
+  "Fraser Coast": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 2,
+    "suburbs": {
+      "Scarness": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.8412319651385953
+      },
+      "Urraween": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.019751094864040804
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.8609830600026361
+  },
+  "Hornsby Shire": {
+    "totalNeg": 3,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 3,
+    "suburbs": {
+      "Berowra Heights": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.1156912420819898
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.1156912420819898
+  },
+  "Wanneroo": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 2,
+    "suburbs": {
+      "Alexander Heights": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.01639983606591219
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.01639983606591219
+  },
+  "Moreland": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 1,
+    "suburbs": {
+      "Coburg North": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9543616162830929
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.9543616162830929
+  },
+  "Mallala": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Two Wells": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.1371744371211216
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.1371744371211216
+  },
+  "Moira": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Yarrawonga": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.003453414149812939
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.003453414149812939
+  },
+  "Logan": {
+    "totalNeg": 5,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 6,
+    "suburbs": {
+      "North Maclean": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.25935386102555447
+      },
+      "Windaroo": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.18684771972618458
+      },
+      "Cedar Vale": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.054414054645262
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.500615635397001
+  },
+  "Southern Downs": {
+    "totalNeg": 7,
+    "trafficAccident": 300,
+    "totalPos": 5,
+    "totalTweet": 12,
+    "suburbs": {
+      "Stanthorpe": {
+        "totalNeg": 7,
+        "trafficAccident": 300,
+        "totalPos": 5,
+        "totalTweet": 12,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 5.43871599336218
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 5.43871599336218
+  },
+  "Queenscliffe": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 2,
+    "suburbs": {
+      "Queenscliff": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.018633353011938688
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.018633353011938688
+  },
+  "Circular Head": {
+    "totalNeg": 4,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 4,
+    "suburbs": {
+      "Smithton": {
+        "totalNeg": 4,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.45054403437673324
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.45054403437673324
+  },
+  "Victor Harbor": {
+    "totalNeg": 4,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 4,
+    "suburbs": {
+      "Encounter Bay": {
+        "totalNeg": 4,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.4235180843552869
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.4235180843552869
+  },
+  "East Gippsland": {
+    "totalNeg": 3,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 3,
+    "suburbs": {
+      "Bairnsdale": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.005080071076754083
+      },
+      "Lakes Entrance": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.002200228924311281
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.007280300001065365
+  },
+  "Gold Coast": {
+    "totalNeg": 211,
+    "trafficAccident": 300,
+    "totalPos": 62,
+    "totalTweet": 273,
+    "suburbs": {
+      "Mount Nathan": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9991956640076595
+      },
+      "Lower Beechmont": {
+        "totalNeg": 206,
+        "trafficAccident": 300,
+        "totalPos": 61,
+        "totalTweet": 267,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 73.80919663920275
+      },
+      "Yatala": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.000366399518098518
+      },
+      "Southport": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.5530734896186132
+      },
+      "Ormeau Hills": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.037282152981189406
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 75.39911434532831
+  },
+  "Barkly": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Tennant Creek": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.03421855136187766
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.03421855136187766
+  },
+  "Moonee Valley": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Niddrie": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0011365280356844206
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.0011365280356844206
+  },
+  "Lithgow": {
+    "totalNeg": 9,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 11,
+    "suburbs": {
+      "Bowenfels": {
+        "totalNeg": 9,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 11,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.6760128896473043
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.6760128896473043
+  },
+  "Alice Springs": {
+    "totalNeg": 65,
+    "trafficAccident": 300,
+    "totalPos": 6,
+    "totalTweet": 71,
+    "suburbs": {
+      "Alice Springs": {
+        "totalNeg": 65,
+        "trafficAccident": 300,
+        "totalPos": 6,
+        "totalTweet": 71,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 6.445579393851411
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 6.445579393851411
+  },
+  "Stirling": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 2,
+    "suburbs": {
+      "Tuart Hill": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9395008730437512
+      },
+      "Innaloo": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.6023047192435437
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.5418055922872949
+  },
+  "Greater Hume Shire": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 3,
+    "suburbs": {
+      "Holbrook": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.7897485774210451
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.7897485774210451
+  },
+  "Strathfield": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 1,
+    "suburbs": {
+      "Strathfield South": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.8724099370348015
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.8724099370348015
+  },
+  "Melbourne": {
+    "totalNeg": 5,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 6,
+    "suburbs": {
+      "Melbourne": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.0288063131721978
+      },
+      "East Melbourne": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.03422593855533998
+      },
+      "Southbank": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.012001121110182833
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.0750333728377206
+  },
+  "Adelaide Hills": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 3,
+    "totalTweet": 5,
+    "suburbs": {
+      "Bridgewater": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.7137427745616725
+      },
+      "Upper Sturt": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.5298662858785251
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.2436090604401975
+  },
+  "Latrobe": {
+    "totalNeg": 11,
+    "trafficAccident": 300,
+    "totalPos": 4,
+    "totalTweet": 15,
+    "suburbs": {
+      "Morwell": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.860868957904789
+      },
+      "Traralgon": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0759762341220929
+      },
+      "Moe": {
+        "totalNeg": 5,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 7,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.209963047282893
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 4.146808239309774
+  },
+  "Nillumbik": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 3,
+    "totalTweet": 4,
+    "suburbs": {
+      "Saint Andrews": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.258940422112657
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 2.258940422112657
+  },
+  "Greater Shepparton": {
+    "totalNeg": 20,
+    "trafficAccident": 300,
+    "totalPos": 9,
+    "totalTweet": 29,
+    "suburbs": {
+      "Shepparton": {
+        "totalNeg": 20,
+        "trafficAccident": 300,
+        "totalPos": 9,
+        "totalTweet": 29,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 9.186050369898975
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 9.186050369898975
+  },
+  "Wyndham-East Kimberley": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Kununurra": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.029810638956777664
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.029810638956777664
+  },
+  "Flinders Ranges": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Quorn": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.35720570777942134
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.35720570777942134
+  },
+  "Toowoomba": {
+    "totalNeg": 42,
+    "trafficAccident": 300,
+    "totalPos": 15,
+    "totalTweet": 57,
+    "suburbs": {
+      "Wilsonton Heights": {
+        "totalNeg": 8,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 9,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.1058512044469433
+      },
+      "Westbrook": {
+        "totalNeg": 34,
+        "trafficAccident": 300,
+        "totalPos": 14,
+        "totalTweet": 48,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 17.20289025479771
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 18.30874145924465
+  },
+  "Swan Hill": {
+    "totalNeg": 6,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 8,
+    "suburbs": {
+      "Swan Hill": {
+        "totalNeg": 6,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 8,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.983315233074384
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.983315233074384
+  },
+  "Cardinia": {
+    "totalNeg": 22,
+    "trafficAccident": 300,
+    "totalPos": 4,
+    "totalTweet": 26,
+    "suburbs": {
+      "Officer South": {
+        "totalNeg": 21,
+        "trafficAccident": 300,
+        "totalPos": 4,
+        "totalTweet": 25,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 3.9258827608470814
+      },
+      "Beaconsfield Upper": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0053475704797441275
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 3.9312303313268258
+  },
+  "Mackay": {
+    "totalNeg": 8,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 8,
+    "suburbs": {
+      "Walkerston": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.025923326325883744
+      },
+      "Mackay": {
+        "totalNeg": 6,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 6,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.681216281455511
+      },
+      "Sarina": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.07020867792091853
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.7773482857023134
+  },
+  "Glenelg": {
+    "totalNeg": 154,
+    "trafficAccident": 300,
+    "totalPos": 38,
+    "totalTweet": 192,
+    "suburbs": {
+      "Portland": {
+        "totalNeg": 154,
+        "trafficAccident": 300,
+        "totalPos": 38,
+        "totalTweet": 192,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 47.65138745783775
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 47.65138745783775
+  },
+  "Hinchinbrook": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 2,
+    "totalTweet": 4,
+    "suburbs": {
+      "Ingham": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.6426117000098845
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 1.6426117000098845
+  },
+  "Warrnambool": {
+    "totalNeg": 14,
+    "trafficAccident": 300,
+    "totalPos": 5,
+    "totalTweet": 19,
+    "suburbs": {
+      "Allansford": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 3,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 1.767708162882088
+      },
+      "Warrnambool": {
+        "totalNeg": 13,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 16,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 4.911412807554675
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 6.679120970436764
+  },
+  "Mid-Western Regional": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Mudgee": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.027698537437069633
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.027698537437069633
+  },
+  "Campbelltown Municipality": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 4,
+    "totalTweet": 6,
+    "suburbs": {
+      "Denham Court": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.9880904704934038
+      },
+      "Glen Alpine": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 3,
+        "totalTweet": 5,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 3.16166895948806
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 4.149759429981463
+  },
+  "Brimbank": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 1,
+    "suburbs": {
+      "Keilor Lodge": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.8828995703527147
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.8828995703527147
+  },
+  "Campaspe": {
+    "totalNeg": 9,
+    "trafficAccident": 300,
+    "totalPos": 3,
+    "totalTweet": 12,
+    "suburbs": {
+      "Kyabram": {
+        "totalNeg": 3,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 4,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.7655487105659116
+      },
+      "Echuca": {
+        "totalNeg": 6,
+        "trafficAccident": 300,
+        "totalPos": 2,
+        "totalTweet": 8,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 2.4622782353441512
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 3.227826945910063
+  },
+  "Central Coast": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Ulverstone": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.009244495993361804
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.009244495993361804
+  },
+  "Gympie Regional Council": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Tin Can Bay": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.042277200582946296
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.042277200582946296
+  },
+  "Glen Innes Severn": {
+    "totalNeg": 2,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 2,
+    "suburbs": {
+      "Glen Innes": {
+        "totalNeg": 2,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 2,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.11830291076771121
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.11830291076771121
+  },
+  "Bridgetown-Greenbushes": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Bridgetown": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.0783800379822426
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.0783800379822426
+  },
+  "Narrogin": {
+    "totalNeg": 0,
+    "trafficAccident": 300,
+    "totalPos": 1,
+    "totalTweet": 1,
+    "suburbs": {
+      "Narrogin": {
+        "totalNeg": 0,
+        "trafficAccident": 300,
+        "totalPos": 1,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.8009379977665949
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.8009379977665949
+  },
+  "Murrindindi": {
+    "totalNeg": 1,
+    "trafficAccident": 300,
+    "totalPos": 0,
+    "totalTweet": 1,
+    "suburbs": {
+      "Kinglake West": {
+        "totalNeg": 1,
+        "trafficAccident": 300,
+        "totalPos": 0,
+        "totalTweet": 1,
+        "health": 0.6,
+        "income": 0.8,
+        "totalSenti": 0.014905970440020956
+      }
+    },
+    "health": 0.6,
+    "income": 0.8,
+    "totalSenti": 0.014905970440020956
+  }
+}
