@@ -2,26 +2,93 @@ var express = require('express');
 var app = express();
 var url = require('url');
 var path = require('path');
+var nano = require('nano')('http://115.146.86.201:5984');
 
 var bodyParser = require('body-parser');
 var fs = require("fs");
 
 var melbourne_obj = JSON.parse(fs.readFileSync(path.join(__dirname,'/data/timeTwi1.json')));
 var tracking_obj = JSON.parse(fs.readFileSync(path.join(__dirname,'/data/tracking_0503.json')));
-var cityList_obj = JSON.parse(fs.readFileSync(path.join(__dirname,'/data/cityList.json')));
-var cityDetail_obj = JSON.parse(fs.readFileSync(path.join(__dirname,'/data/cityDetail.json')));
-/*
-var cityMapping_obj = JSON.parse(fs.readFileSync(path.join(__dirname,'/data/mapping.json')));
-var cityPage_obj = JSON.parse(fs.readFileSync(path.join(__dirname,'/data/cityPage.json')));
-var health_obj = JSON.parse(fs.readFileSync(path.join(__dirname,'/data/HealthAU.json')));
-var income_obj = JSON.parse(fs.readFileSync(path.join(__dirname,'/data/income.json')));
+var cityList_obj = JSON.parse(fs.readFileSync(path.join(__dirname,'/data/cityList1.json')));
+var cityDetail_obj = JSON.parse(fs.readFileSync(path.join(__dirname,'/data/cityDetail1.json')));
 
-var cityDetail_obj = {};
-Object.keys(cityMapping_obj).forEach(function(key){
-	var suburbs = cityMapping_obj[key];
-	for(var i=0; )
+var db_name = 'stream_coord';
+var stream = nano.db.use(db_name);
+app.use(bodyParser.json());
+app.use(express.json());
+/*
+var dataWrite = '';
+var userId = '';
+Object.keys(tracking_obj).forEach(function(key){
+	var temp = tracking_obj[key];
+	var tweetList = temp.tweets;
+	for(var i =0; i<tweetList.length; i++){
+		var tempText = tweetList[i].replace(/\n/g,'');
+		dataWrite += tempText +'\n';
+		userId += key+'\n';
+		//var bufferWrite = new Buffer(dataWrite);
+
+	}
+
 });
+
+fs.writeFile(__dirname+'/data/tweetText.txt',dataWrite,function (err) {
+   if(err) {
+    console.error(err);
+    } else {
+       //console.log('success');
+    }
+	});
+
+	fs.writeFile(__dirname+'/data/user2tweet.txt',userId,function (err) {
+   if(err) {
+    console.error(err);
+    } else {
+       //console.log('success');
+    }
+	});
 */
+var data = fs.readFileSync(path.join(__dirname,'/data/userTopic10.txt'));
+  var topicdata = data.toString();
+  var line = topicdata.split('\n');
+  for(var i=0 ; i<line.length; i++){
+  	var lineElem = line[i].split('	');
+  	var topicList = [];
+  	var topicNum = [];
+  	var userId = lineElem[0].toString();
+  	for(j = 1; j<lineElem.length; j++){
+  		if(j%2 != 0)
+  			topicList.push(lineElem[j]);
+  		else
+  			topicNum.push(lineElem[j]);
+  	}
+  	var knum;
+  	
+  	if(topicList.length > 20)
+  		knum = 7;
+  	else if(topicList.length > 10)
+  		knum = 5;
+  	else
+  		knum = 3;
+  	var randomIndex = [];
+  	for(var t=0; t<topicList.length; t++)
+  		randomIndex.push(t);
+  	var indexList = kRandomArr(randomIndex,knum);
+  	if(userId in tracking_obj){
+  		tracking_obj[userId].like = [];
+  	for(var t_i =0; t_i < knum; t_i++){
+  		var temp = {
+  			topic:topicList[indexList[t_i]],
+  			tweetcount:topicNum[indexList[t_i]]
+  		};
+  		tracking_obj[userId].like.push(temp);
+  	}
+  	}
+  	else
+  		console.log(userId);
+  	
+
+  }
 
 app.use(express.static(__dirname));
 
@@ -70,3 +137,124 @@ app.get('/sentiment_result/json/city/:cityName',function(req,res){
 	res.json(cityDetail);
 
 });
+
+app.get('/streams',function(req,res){
+	nano.db.changes('stream_coord', function(err, body) {
+  	if (!err) {
+    var lat;
+    var lng;
+    var text;
+    var results = body.results;
+    //console.log(results);
+    var id_list = [];
+    for(var i=results.length-100; i<results.length; i++){
+    	var id = results[i].id;
+    	console.log(id);
+    	id_list.push(id);
+    	/*
+    	stream.get(id,function(err,body){
+    		if(!err){
+    			
+    		}
+
+    	});
+    	*/
+    }
+    stream.view('StreamDoc','StreamView',{keys:id_list},function(err,body){
+    	if (!err) {
+    	var sendData = [];
+    	body.rows.forEach(function(doc) {
+      	//console.log(doc.value);
+      	var coord = doc.value[1].coordinates;
+      	text = doc.value[0];
+    	lat = parseFloat(coord[1]);
+    	lng = parseFloat(coord[0]);
+    	var temp = {
+    		text:text,
+    		lat:lat,
+    		lng:lng
+    	};
+    	//console.log(temp);
+    	sendData.push(temp);
+
+    });
+    	//console.log('sendData',sendData);
+    	var num = results.length;
+    	var send = {
+    		num:num,
+    		data:sendData
+    	};
+    	res.json(send);
+  	}
+    });
+ 
+  }
+});
+});
+
+app.post('/streams/change',function(req,res){
+	var request = req.body;
+	var pre_index = request.pre_index;
+	nano.db.changes('stream_coord', function(err, body) {
+  	if (!err) {
+    var lat;
+    var lng;
+    var text;
+    var results = body.results;
+    //console.log(results);
+    var id_list = [];
+    for(var i=pre_index ; i<results.length; i++){
+    	var id = results[i].id;
+    	console.log(id);
+    	id_list.push(id);
+    	/*
+    	stream.get(id,function(err,body){
+    		if(!err){
+    			
+    		}
+
+    	});
+    	*/
+    }
+    stream.view('StreamDoc','StreamView',{keys:id_list},function(err,body){
+    	if (!err) {
+    	var sendData = [];
+    	body.rows.forEach(function(doc) {
+      	//console.log(doc.value);
+      	var coord = doc.value[1].coordinates;
+      	text = doc.value[0];
+    	lat = parseFloat(coord[1]);
+    	lng = parseFloat(coord[0]);
+    	var temp = {
+    		text:text,
+    		lat:lat,
+    		lng:lng
+    	};
+    	//console.log(temp);
+    	sendData.push(temp);
+
+    });
+    	//console.log('sendData',sendData);
+    	res.json(sendData);
+  	}
+    });
+ 
+  }
+});
+});
+
+
+
+function kRandomArr( arr, length ){
+    var newArr = [];
+    var index;
+
+    for(var i = 0 ; i < length; i++ ){
+
+        index = parseInt( Math.random() * arr.length );
+        newArr.push( arr[index] );
+        arr.splice( index, 1 );
+    }
+
+    return newArr;
+};

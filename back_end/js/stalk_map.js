@@ -197,9 +197,14 @@ function showLike(userInfo){
                         }
         },
         responsive: true,
-        legend: {
-            position: 'right',
-            },
+        scales: {
+            yAxes: [{
+                ticks: {
+                    beginAtZero:true
+                }
+            }]
+        },
+        
         title: {
              display: true,
             text: userText

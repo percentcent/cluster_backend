@@ -1,0 +1,77 @@
+8239822	world	9	politics	9	sports	8	at-war	8	science	7	fashion	5	destination-home-guide	5	books	5	basketball	5	americas	5	first-draft	4	arts	4	election	2	your-money	1	well	1	style	1	real-estate	1	on-the-runway	1	music	1	movies	1	health	1	football-college	1	environment	1	crime	1	cooking	1	business	1	automobiles	1
+8828892	world	53	politics	53	sports	52	at-war	51	science	50	arts	42	americas	31	books	29	fashion	27	business	25	basketball	23	destination-home-guide	22	first-draft	18	europe	12	style	9	nyc-events-guide	7	media	7	election	6	real-estate	5	health	5	food	5	your-money	4	television	4	environment	4	weddings	3	pets	3	on-the-runway	3	technology	2	soccer	2	restaurant-search	2	money-policy	2	india-ink	2	golf	2	football-nfl	2	economy	2	dealbook	2	automobiles	2	asia-pacific	2	art-design	2	travel	1	theater	1	the-upshot	1	personal-tech	1	music	1	movies	1	middle-east	1	hockey	1	health-guide	1	football-college	1	energy	1	dance	1	beauty	1
+14600009	politics	10	arts	9	sports	8	science	8	americas	8	at-war	6	world	5	fashion	5	business	5	books	5	style	4	europe	3	destination-home-guide	3	basketball	3	technology	2	nyc-events-guide	2	food	2	first-draft	2	travel	1	theater	1	real-estate	1	personal-tech	1	on-the-runway	1	media	1	health	1	environment	1	crime	1	basketball-nba	1
+15138707	politics	938	world	889	sports	883	science	858	at-war	844	books	698	fashion	648	basketball	619	destination-home-guide	601	first-draft	522	arts	390	americas	328	business	270	europe	148	environment	81	style	80	technology	72	food	63	nyc-events-guide	59	media	58	terrorism	52	health	45	election	45	asia-pacific	40	economy	36	real-estate	35	on-the-runway	33	travel	29	well	23	your-money	21	football-college	21	television	20	pets	19	movies	19	automobiles	19	weddings	18	basketball-college	18	sinosphere	17	basketball-nba	17	soccer	16	energy	16	dealbook	16	theater	14	golf	14	bits	14	art-design	14	entrepreneurship	13	middle-east	12	crime	12	markets	11	baseball	11	africa	11	hockey	10	cooking	9	mortgages	8	health-guide	8	football-nfl	8	dance	8	commercial-real-estate	8	personal-tech	7	my-real-estate	7	money-policy	7	india-ink	7	beauty	7	restaurant-search	6	education	5	the-upshot	4	music	4	mens-style	4	great-homes-destination	4	football	4	drama	4	opinion	3	money	3	space-cosmos	2	deal-book	2	tennis	1
+15307211	sports	340	science	327	world	326	politics	307	at-war	307	books	273	fashion	223	basketball	212	destination-home-guide	203	first-draft	163	arts	104	americas	102	business	86	europe	62	environment	38	style	30	food	30	technology	27	health	22	asia-pacific	22	media	19	on-the-runway	12	basketball-college	11	terrorism	9	well	8	entrepreneurship	8	election	8	basketball-nba	8	automobiles	8	soccer	7	cooking	7	sinosphere	6	movies	6	economy	6	bits	6	nyc-events-guide	5	energy	5	markets	4	art-design	4	the-upshot	3	real-estate	3	golf	3	football	3	crime	3	africa	3	weddings	2	travel	2	television	2	restaurant-search	2	money-policy	2	hockey	2	football-nfl	2	football-college	2	commercial-real-estate	2	beauty	2	theater	1	tennis	1	pets	1	opinion	1	my-real-estate	1	music	1	mens-style	1	great-homes-destination	1	drama	1	dealbook	1	baseball	1
+15902371	sports	76	world	72	science	72	at-war	66	politics	60	fashion	45	business	45	americas	45	arts	44	books	43	europe	35	basketball	35	destination-home-guide	29	style	14	health	11	first-draft	11	food	10	environment	7	media	6	terrorism	5	technology	5	asia-pacific	4	well	3	the-upshot	2	golf	2	drama	2	art-design	2	weddings	1	soccer	1	hockey	1	energy	1	dealbook	1	dance	1	beauty	1	baseball	1	automobiles	1
+16343574	world	1	sports	1	science	1	politics	1	first-draft	1	fashion	1	destination-home-guide	1	books	1	basketball	1	at-war	1
+17086284	world	1	sports	1	science	1	fashion	1	europe	1	business	1	books	1	at-war	1	arts	1	americas	1
+17887403	world	5	sports	5	science	5	politics	5	books	5	at-war	5	first-draft	4	fashion	4	destination-home-guide	4	basketball	4	media	1	health	1	food	1	environment	1
+18147028	sports	1915	world	1884	science	1846	at-war	1816	politics	1657	books	1393	fashion	1077	basketball	929	destination-home-guide	838	americas	770	business	731	arts	730	first-draft	534	europe	503	health	291	style	277	food	249	environment	212	media	205	well	127	automobiles	117	asia-pacific	102	technology	95	art-design	91	terrorism	78	soccer	75	on-the-runway	66	hockey	53	cooking	51	movies	50	energy	47	the-upshot	44	dealbook	41	crime	41	restaurant-search	34	golf	34	football-nfl	30	weddings	28	africa	28	sinosphere	26	drama	26	travel	24	television	23	music	21	entrepreneurship	21	bits	18	nyc-events-guide	15	economy	15	mens-style	13	health-guide	12	election	12	money	11	money-policy	10	beauty	10	basketball-nba	10	opinion	9	middle-east	9	baseball	9	tennis	8	space-cosmos	8	great-homes-destination	8	theater	7	india-ink	7	football-college	7	dance	7	real-estate	6	markets	5	deal-book	5	commercial-real-estate	4	your-money	3	pets	3	personal-tech	3	my-real-estate	3	education	2	football	1
+20102892	sports	234	world	232	at-war	224	science	211	politics	211	books	170	fashion	119	basketball	106	americas	101	arts	96	destination-home-guide	95	business	83	first-draft	59	europe	56	style	30	health	30	terrorism	24	media	22	technology	21	food	19	environment	19	well	18	automobiles	16	asia-pacific	15	on-the-runway	10	movies	9	energy	9	hockey	8	the-upshot	7	soccer	7	cooking	7	art-design	7	golf	6	football-college	6	election	6	weddings	5	travel	5	money-policy	5	football-nfl	5	dealbook	5	crime	5	basketball-nba	5	sinosphere	4	restaurant-search	4	pets	4	india-ink	4	commercial-real-estate	4	beauty	4	africa	4	my-real-estate	3	drama	3	theater	2	tennis	2	personal-tech	2	opinion	2	music	2	health-guide	2	entrepreneurship	2	economy	2	basketball-college	2	baseball	2	television	1	nyc-events-guide	1	middle-east	1	mens-style	1	markets	1	education	1	dance	1	bits	1
+20625289	sports	28	world	27	politics	27	at-war	27	americas	19	books	17	science	16	arts	14	fashion	13	business	12	basketball	11	destination-home-guide	10	europe	7	terrorism	5	first-draft	5	style	4	soccer	4	football-college	4	africa	3	weddings	2	technology	2	sinosphere	2	hockey	2	football-nfl	2	crime	2	basketball-nba	2	automobiles	2	your-money	1	well	1	travel	1	theater	1	the-upshot	1	television	1	restaurant-search	1	real-estate	1	nyc-events-guide	1	music	1	movies	1	great-homes-destination	1	football	1	food	1	energy	1	election	1	economy	1	deal-book	1	cooking	1	basketball-college	1	art-design	1
+22279048	sports	8	politics	8	at-war	8	world	7	americas	6	business	5	fashion	4	destination-home-guide	4	books	4	basketball	4	arts	4	style	3	science	3	technology	2	health	2	travel	1	terrorism	1	real-estate	1	nyc-events-guide	1	food	1	europe	1	election	1	crime	1
+28570424	world	30	sports	30	politics	30	at-war	30	books	18	americas	17	science	16	fashion	16	arts	16	destination-home-guide	15	basketball	15	first-draft	12	style	7	business	7	health	6	food	6	terrorism	3	europe	3	automobiles	3	technology	2	election	2	drama	2	beauty	2	travel	1	the-upshot	1	space-cosmos	1	real-estate	1	pets	1	on-the-runway	1	football-nfl	1	football-college	1	environment	1	dealbook	1	dance	1	commercial-real-estate	1
+33442805	world	5	sports	5	politics	5	books	5	at-war	5	science	4	fashion	3	terrorism	2	first-draft	2	destination-home-guide	2	basketball	2	weddings	1	technology	1	style	1	soccer	1	sinosphere	1	europe	1	business	1	arts	1	americas	1	africa	1
+46655888	world	21	sports	21	at-war	21	politics	20	books	15	science	13	fashion	9	basketball	9	americas	9	destination-home-guide	8	first-draft	6	arts	6	business	5	technology	4	style	4	football-college	4	europe	4	terrorism	3	real-estate	3	crime	3	health	2	food	2	dance	2	the-upshot	1	soccer	1	sinosphere	1	on-the-runway	1	hockey	1	health-guide	1	football-nfl	1	energy	1	drama	1	commercial-real-estate	1	bits	1	basketball-nba	1	basketball-college	1	automobiles	1	art-design	1	africa	1
+61750329	world	1	sports	1	science	1	politics	1	first-draft	1	fashion	1	destination-home-guide	1	books	1	basketball	1	at-war	1
+67188830	world	8	sports	8	at-war	8	fashion	7	destination-home-guide	7	basketball	7	science	6	politics	6	books	5	first-draft	4	arts	4	business	3	americas	3	technology	1	style	1	food	1	environment	1
+71967898	world	5	sports	5	science	5	politics	5	at-war	5	fashion	4	books	4	first-draft	3	destination-home-guide	3	basketball	3	europe	2	business	2	arts	2	americas	2
+73279725	sports	127	at-war	124	world	122	politics	120	science	94	books	93	fashion	72	basketball	69	destination-home-guide	65	first-draft	54	americas	47	arts	40	business	27	style	18	europe	17	terrorism	14	technology	13	food	10	health	8	weddings	7	africa	7	sinosphere	6	football-nfl	6	football-college	6	environment	6	basketball-college	5	automobiles	5	asia-pacific	5	well	4	soccer	4	real-estate	4	middle-east	4	hockey	4	art-design	4	travel	3	television	3	restaurant-search	3	on-the-runway	3	media	3	energy	3	basketball-nba	3	pets	2	music	2	movies	2	mortgages	2	money-policy	2	football	2	economy	2	dealbook	2	crime	2	commercial-real-estate	2	beauty	2	baseball	2	theater	1	the-upshot	1	space-cosmos	1	personal-tech	1	nyc-events-guide	1	my-real-estate	1	money	1	india-ink	1	health-guide	1	election	1	education	1	drama	1	dance	1	bits	1
+74676960
+86018423
+93309166
+108740836
+124026965
+127452607
+138418838
+139364001
+146980769
+148634991
+149585330
+160117596
+170238260
+201424523
+206057032
+211362581
+235091609
+241365665
+269023896
+275605484
+295585728
+345192837
+353442866
+354837183
+455279883
+462182532
+504246351
+606203064
+617034586
+1085684486
+1227527958
+1271726455
+1294835346
+1424678406
+1574529770
+1950277680
+2154152024
+2510066328
+2809828374
+2836002698
+3048544857
+3165710186
+3219108581
+3225496844
+3278207173
+3300579264
+3380828067
+3635899574
+714344257042010112
+742891296822419456
+701333393405968384
+4416945086
+786381114138951680
+714030928738197505
+860443604040286209
+780476339916713985
+923585040830824449

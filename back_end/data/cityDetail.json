@@ -5,55 +5,49 @@
 		"totalNeg": 800,
 		"income" : 0.8,
 		"health" : 0.6,
-		"trafficAccident" : 300,
-		"suburbs" : {
+		"cities" : {
 			"carlton" : {
 				"totalTweet" : 253,
 				"totalPos": 100,
 				"totalNeg": 153,
 				"income" : 0.7,
-				"health" : 0.5,
-				"trafficAccident" : 456				
+				"health" : 0.5			
 			},
 			"boxhill" : {
 				"totalTweet" : 456,
 				"totalPos": 201,
 				"totalNeg": 255,
 				"income" : 0.9,
-				"health" : 0.6,
-				"trafficAccident" : 245				
+				"health" : 0.6
+						
 			},
 			"kew" : {
 				"totalTweet" : 126,
 				"totalPos": 51,
 				"totalNeg": 75,
 				"income" : 1.0,
-				"health" : 0.5,
-				"trafficAccident" : 324				
+				"health" : 0.5			
 			},
 			"westmelbourne" : {
 				"totalTweet" : 250,
 				"totalPos": 160,
 				"totalNeg": 90,
 				"income" : 0.95,
-				"health" : 0.55,
-				"trafficAccident" : 424
+				"health" : 0.55
 			},
 			"northmelbourne" : {
 				"totalTweet" : 350,
 				"totalPos": 60,
 				"totalNeg": 290,
 				"income" : 0.35,
-				"health" : 0.75,
-				"trafficAccident" : 24
+				"health" : 0.75
 			},
 			"southbank" : {
 				"totalTweet" : 550,
 				"totalPos": 300,
 				"totalNeg": 250,
 				"income" : 0.99,
-				"health" : 0.25,
-				"trafficAccident" : 567
+				"health" : 0.25
 			}
 		}
 }

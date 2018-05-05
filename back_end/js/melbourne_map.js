@@ -1,4 +1,5 @@
 var map;
+var overlaySet = [];
 var crowd = {
 		"1": [
 			[-37.814,144.96332],
@@ -41,7 +42,9 @@ function transformCrowdData(data){
 }
 
 function d3show(crowd_data){
+    deleteOverlay();
     var overlay = new google.maps.OverlayView();
+    overlaySet.push(overlay);
     overlay.onAdd = function(){
         var layer = d3.select(this.getPanes().overlayMouseTarget)
                 .append("div")
@@ -79,11 +82,7 @@ function d3show(crowd_data){
                             return colores_google(6);
 
                     })
-                    .attr("stroke-opacity",function(d){
-                        if(timeSet[3].indexOf(d.time) >= 0)
-                            return 0.8;
-                        return 0.0;
-                    })
+                    .attr("stroke-opacity",0.7)
                     .attr("stroke-width","2px")
                     .attr("fill",function(d){
                         if(timeSet[0].indexOf(d.time) >= 0)
@@ -99,11 +98,7 @@ function d3show(crowd_data){
                         else 
                             return colores_google(6);
                     })
-                    .attr("fill-opacity",function(d){
-                        if(timeSet[3].indexOf(d.time) >= 0)
-                            return 0.8;
-                        return 0.0;
-                    });
+                    .attr("fill-opacity",0.7);
           
 
                     function transform(d){
@@ -124,7 +119,8 @@ function d3show(crowd_data){
 
         };
 
-     overlay.setMap(map);
+     //overlay.setMap(map);
+     setOverlay(map);
 }
 
 function colores_google(n) {
@@ -132,10 +128,23 @@ function colores_google(n) {
   return colores_g[n % colores_g.length];
 }
 
+function setOverlay(map){
+  for(var i = 0; i < overlaySet.length; i++){
+    overlaySet[i].setMap(map);
+  }
+}
+
+function deleteOverlay()
+{
+  setOverlay(null);
+  overlaySet = [];
+}
+
+var allTweet;
 function initMap()
 {
 
-    map = new google.maps.Map(document.getElementById('map'), {
+    map = new google.maps.Map(document.getElementById('melbourne_map'), {
         zoom: 10,
         center: { lat: -37.814, lng: 144.96332 },
         styles:[
@@ -186,7 +195,121 @@ function initMap()
     }).done(function (res) {
     var crowd_data =transformCrowdData(res);
     d3show(crowd_data);
+    allTweet = crowd_data;
     
     });
 
+    document.getElementById('time0').addEventListener('click', function() {
+        d3ShowTime(0);
+    });
+    document.getElementById('time1').addEventListener('click', function() {
+        d3ShowTime(1);
+    });
+    document.getElementById('time2').addEventListener('click', function() {
+        d3ShowTime(2);
+    });
+    document.getElementById('time3').addEventListener('click', function() {
+        d3ShowTime(3);
+    });
+    document.getElementById('time4').addEventListener('click', function() {
+        d3ShowTime(4);
+    });
+    document.getElementById('time5').addEventListener('click', function() {
+        d3ShowTime(5);
+    });
+
 }
+
+function d3ShowTime(index){
+    deleteOverlay();
+    var overlay = new google.maps.OverlayView();
+    overlaySet.push(overlay);
+    overlay.onAdd = function(){
+        var layer = d3.select(this.getPanes().overlayMouseTarget)
+                .append("div")
+                .attr("class","tweet");
+        overlay.draw = function(){
+                var projection = this.getProjection(),
+                    padding = 8;
+
+                var marker = layer.selectAll("svg")
+                    .data(allTweet)
+                    .each(transform)
+                    .enter()
+                    .append("svg")
+                    .each(transform);
+
+                var r =4;
+                
+
+                marker.append("circle")
+                    .attr("cx",padding)
+                    .attr("cy",padding)
+                    .attr("r",r)
+                    .attr("stroke",function(d){
+                        if(timeSet[0].indexOf(d.time) >= 0)
+                            return colores_google(1);
+                        else if(timeSet[1].indexOf(d.time) >= 0)
+                            return colores_google(2);
+                        else if(timeSet[2].indexOf(d.time) >= 0)
+                            return colores_google(3);
+                        else if(timeSet[3].indexOf(d.time) >= 0)
+                            return colores_google(4);
+                        else if(timeSet[4].indexOf(d.time) >= 0)
+                            return colores_google(5);
+                        else 
+                            return colores_google(6);
+
+                    })
+                    .attr("stroke-opacity",function(d){
+                        if(timeSet[index].indexOf(d.time) >= 0)
+                            return 0.7;
+                        else
+                            return 0.0;
+                    })
+                    .attr("stroke-width","2px")
+                    .attr("fill",function(d){
+                        if(timeSet[0].indexOf(d.time) >= 0)
+                            return colores_google(1);
+                        else if(timeSet[1].indexOf(d.time) >= 0)
+                            return colores_google(2);
+                        else if(timeSet[2].indexOf(d.time) >= 0)
+                            return colores_google(3);
+                        else if(timeSet[3].indexOf(d.time) >= 0)
+                            return colores_google(4);
+                        else if(timeSet[4].indexOf(d.time) >= 0)
+                            return colores_google(5);
+                        else 
+                            return colores_google(6);
+                    })
+                    .attr("fill-opacity",function(d){
+                        if(timeSet[index].indexOf(d.time) >= 0)
+                            return 0.7;
+                        else
+                            return 0.0;
+                    });
+          
+
+                    function transform(d){
+                    d = new google.maps.LatLng(d.Lat,d.Lng);
+                    d = projection.fromLatLngToDivPixel(d);
+                    return d3.select(this)
+                        .style("left",(d.x - padding) + "px")
+                        .style("top",(d.y - padding) + "px")
+                    }
+                };
+    };
+           
+    
+    overlay.onRemove = function()
+        {
+          d3.selectAll(".tweet")
+                    .remove();
+
+        };
+
+     //overlay.setMap(map);
+     setOverlay(map);
+
+}
+

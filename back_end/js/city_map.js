@@ -117,32 +117,7 @@ function d3show(city_data){
                 var r =38;
                 
 
-                marker.append("circle")
-                    .attr("cx",padding)
-                    .attr("cy",padding)
-                    .attr("r",r)
-                    .attr("stroke","#dc3912")
-                    .attr("stroke-opacity",0.8)
-                    .attr("stroke-width","2px")
-                    .attr("fill","#dc3912")
-                    .attr("fill-opacity",0.8)
-                    .attr("id",function(i){
-                    	return "Marker"+i;
-                    })
-                    .on("click",function(d,i){
-                    	
-                        map.setZoom(11);
-                        var newCenter ={
-                        	lat: d.Lat,
-                        	lng: d.Lng
-                        }
-  						map.setCenter(newCenter);
-  						//showStatistic();
-  						getCityDetail(d.content.name);
-  						
-                    });
-
-                    marker.append("text")
+              	marker.append("text")
                 	  .text(function(d){
                 	  	return d.content.name;
                 	  })
@@ -168,6 +143,31 @@ function d3show(city_data){
                       .attr("y",60)
                       .attr("font-size", 15)
                       .attr("font-family", "simsum");
+
+                marker.append("circle")
+                    .attr("cx",padding)
+                    .attr("cy",padding)
+                    .attr("r",r)
+                    .attr("stroke","#dc3912")
+                    .attr("stroke-opacity",0.6)
+                    .attr("stroke-width","2px")
+                    .attr("fill","#dc3912")
+                    .attr("fill-opacity",0.6)
+                    .attr("id",function(i){
+                    	return "Marker"+i;
+                    })
+                    .on("click",function(d,i){
+                    	
+                        map.setZoom(11);
+                        var newCenter ={
+                        	lat: d.Lat,
+                        	lng: d.Lng
+                        }
+  						map.setCenter(newCenter);
+  						//showStatistic();
+  						getCityDetail(d.content.name);
+  						
+                    });
                 
                 
 
@@ -253,7 +253,7 @@ function getCityDetail(cityName){
 function showStatistic(city_details){
 
     var lineData = city_details;
-	var options = Object.keys(lineData.suburbs);
+	var options = Object.keys(lineData.cities);
 	for(var i=0;i<options.length;i++){
 		var option = options[i];
 		$("#suburb").append("<option value='"+option+"'>"+option+"</option>");
@@ -282,10 +282,10 @@ var percent = [];
 var income = [];
 var health = [];
 //var traffic = [];
-Object.keys(lineData.suburbs).forEach(function(key){
+Object.keys(lineData.cities).forEach(function(key){
 
 if(x_labels.indexOf(key) >= 0){
-	var temp = lineData.suburbs[key];
+	var temp = lineData.cities[key];
  	totalTweet.push(parseFloat(temp.totalTweet));
  	totalPos.push(parseFloat(temp.totalPos));
  	percent.push(parseFloat(temp.totalPos)/parseFloat(totalTweet));

@@ -1,0 +1,77 @@
+8239822	fashion	4	arts	2	world	1	politics	1	money-policy	1
+8828892	fashion	22	at-war	13	science	3	business	3	arts	3	health	2	environment	2	world	1	style	1	sports	1	sinosphere	1	real-estate	1	politics	1	pets	1	media	1	energy	1	basketball-nba	1	asia-pacific	1
+14600009	fashion	6	style	1	football-nfl	1	business	1	arts	1
+15138707	fashion	314	arts	171	at-war	65	science	56	business	50	politics	38	world	32	europe	25	books	25	sports	24	environment	17	health	16	style	14	food	14	sinosphere	11	terrorism	10	americas	10	asia-pacific	9	technology	8	economy	5	cooking	5	crime	4	africa	4	your-money	3	well	3	pets	3	personal-tech	3	media	3	football-nfl	3	football-college	3	entrepreneurship	3	election	3	automobiles	3	soccer	2	restaurant-search	2	real-estate	2	health-guide	2	energy	2	education	2	bits	2	travel	1	opinion	1	on-the-runway	1	nyc-events-guide	1	money	1	middle-east	1	mens-style	1	india-ink	1	hockey	1	great-homes-destination	1	golf	1	dealbook	1	dance	1	commercial-real-estate	1	beauty	1	basketball-college	1	basketball	1	art-design	1
+15307211	fashion	205	at-war	24	style	7	science	7	arts	6	world	5	football-college	5	environment	5	books	5	automobiles	5	sports	4	real-estate	4	food	4	election	4	asia-pacific	4	pets	3	health	3	business	3	basketball-college	3	travel	2	the-upshot	2	terrorism	2	sinosphere	2	europe	2	crime	2	commercial-real-estate	2	beauty	2	africa	2	your-money	1	well	1	weddings	1	technology	1	soccer	1	opinion	1	nyc-events-guide	1	money-policy	1	india-ink	1	energy	1	economy	1	dealbook	1	cooking	1	basketball	1	art-design	1	americas	1
+15902371	fashion	34	at-war	6	science	5	style	4	terrorism	3	world	2	media	2	football-nfl	2	football-college	2	business	2	well	1	weddings	1	technology	1	sports	1	pets	1	middle-east	1	hockey	1	health	1	food	1	europe	1	election	1	basketball-college	1	asia-pacific	1	arts	1
+16343574	fashion	1
+17086284	fashion	1
+17887403	fashion	4	politics	1
+18147028	at-war	473	fashion	272	business	184	politics	137	health	104	terrorism	89	style	67	world	59	food	54	sports	48	arts	40	science	35	real-estate	28	election	28	americas	28	well	25	books	25	technology	22	europe	20	sinosphere	16	africa	15	weddings	14	football-college	14	dealbook	14	environment	9	economy	9	crime	9	asia-pacific	9	entrepreneurship	8	automobiles	7	soccer	6	restaurant-search	6	commercial-real-estate	6	beauty	5	pets	4	on-the-runway	4	music	4	middle-east	4	energy	4	the-upshot	3	personal-tech	3	nyc-events-guide	3	media	3	hockey	3	basketball-college	3	travel	2	my-real-estate	2	movies	2	money-policy	2	golf	2	cooking	2	bits	2	art-design	2	opinion	1	money	1	markets	1	india-ink	1	football-nfl	1	education	1	basketball-nba	1	basketball	1
+20102892	fashion	103	at-war	22	business	11	style	9	football-college	8	pets	6	sports	5	books	5	arts	5	weddings	4	science	4	media	4	football-nfl	4	environment	4	africa	4	terrorism	3	food	3	europe	3	tennis	2	sinosphere	2	politics	2	health	2	election	2	destination-home-guide	2	dance	2	world	1	well	1	the-upshot	1	technology	1	soccer	1	opinion	1	middle-east	1	hockey	1	energy	1	dealbook	1	crime	1	cooking	1	beauty	1	basketball-nba	1	basketball-college	1	basketball	1	asia-pacific	1	art-design	1
+20625289	fashion	11	at-war	6	arts	3	world	1	sports	1	science	1	restaurant-search	1	mens-style	1	environment	1	election	1	business	1	americas	1
+22279048	fashion	6	weddings	1	golf	1
+28570424	fashion	7	terrorism	2	style	2	football-nfl	2	business	2	at-war	2	well	1	travel	1	sports	1	restaurant-search	1	pets	1	health	1	football-college	1	food	1	europe	1	bits	1	basketball-college	1	arts	1	africa	1
+33442805	fashion	3	sports	1	at-war	1
+46655888	fashion	9	arts	4	sports	2	health	2	football-nfl	1	election	1	business	1	africa	1
+61750329	fashion	1
+67188830	fashion	6	style	1	football-college	1
+71967898	fashion	3	at-war	2
+73279725	fashion	86	arts	38	at-war	13	politics	12	books	11	business	8	sports	7	election	5	terrorism	4	style	4	europe	4	sinosphere	3	basketball-college	3	science	2	pets	2	food	2	environment	2	americas	2	world	1	technology	1	soccer	1	restaurant-search	1	on-the-runway	1	nyc-events-guide	1	movies	1	india-ink	1	golf	1	football-nfl	1	energy	1	cooking	1	basketball	1	baseball	1	automobiles	1	asia-pacific	1
+74676960	fashion	1	at-war	1	asia-pacific	1
+86018423	pets	1
+93309166	fashion	3266
+108740836	fashion	2	science	1	basketball-college	1
+124026965	fashion	624	at-war	500	style	264	politics	181	business	154	football-college	130	europe	126	sports	112	terrorism	99	environment	90	health	88	election	85	science	83	world	71	media	70	basketball-college	65	books	49	football-nfl	41	technology	34	your-money	26	soccer	26	automobiles	23	economy	21	asia-pacific	20	africa	20	real-estate	19	pets	17	tennis	15	sinosphere	14	beauty	14	commercial-real-estate	12	art-design	11	weddings	10	mens-style	9	energy	9	well	8	money-policy	7	crime	7	arts	7	dealbook	6	basketball	6	on-the-runway	5	my-real-estate	5	middle-east	5	space-cosmos	4	dance	4	music	3	food	3	great-homes-destination	2	americas	2	theater	1	television	1	movies	1	hockey	1	golf	1	football	1	entrepreneurship	1	destination-home-guide	1	bits	1	basketball-nba	1
+127452607	fashion	3	world	1	technology	1	health	1	business	1
+138418838	fashion	101	at-war	9	health	3	business	3	arts	3	style	2	science	2	real-estate	2	asia-pacific	2	terrorism	1	sports	1	soccer	1	sinosphere	1	pets	1	nyc-events-guide	1	football-nfl	1	football-college	1	europe	1	environment	1	economy	1
+139364001	fashion	6	world	1	terrorism	1	style	1	science	1	politics	1	health	1	football	1	business	1	books	1	basketball-college	1	arts	1
+146980769	fashion	841	at-war	393	science	227	food	142	europe	139	health	138	automobiles	129	media	99	style	95	business	93	world	65	sports	65	asia-pacific	60	environment	59	books	57	soccer	49	golf	48	energy	46	art-design	39	well	36	terrorism	36	cooking	31	the-upshot	26	sinosphere	24	on-the-runway	22	hockey	22	politics	20	movies	18	restaurant-search	16	football-nfl	16	crime	14	technology	12	dealbook	12	americas	12	basketball-nba	11	money	9	bits	8	opinion	7	great-homes-destination	7	entrepreneurship	5	election	5	tennis	4	africa	4	economy	3	drama	3	beauty	3	arts	3	theater	2	television	2	space-cosmos	2	music	2	markets	2	health-guide	2	football-college	2	education	2	dance	2	basketball	2	baseball	2	travel	1	destination-home-guide	1
+148634991	fashion	11	at-war	6	arts	4	sports	3	europe	3	business	3	politics	2	health	2	books	2	asia-pacific	2	your-money	1	style	1	sinosphere	1	restaurant-search	1	opinion	1	food	1	economy	1	automobiles	1
+149585330	fashion	134	at-war	15	books	7	environment	6	science	5	world	4	sports	4	pets	4	terrorism	3	sinosphere	3	food	3	business	3	automobiles	3	asia-pacific	3	arts	3	politics	2	football-college	2	europe	2	election	2	economy	2	africa	2	style	1	soccer	1	nyc-events-guide	1	hockey	1	health	1	golf	1	football-nfl	1	education	1	crime	1	commercial-real-estate	1	basketball-nba	1	basketball	1
+160117596	at-war	1
+170238260	world	1	science	1	fashion	1
+201424523	fashion	2	pets	1	basketball-nba	1
+206057032	fashion	4	at-war	2	football-college	1	food	1	business	1	arts	1
+211362581	fashion	1351	at-war	294	style	277	football-college	197	terrorism	131	business	102	media	79	automobiles	68	health	61	your-money	52	basketball-college	50	football-nfl	47	environment	47	real-estate	38	beauty	38	technology	35	sinosphere	33	weddings	28	pets	26	commercial-real-estate	22	africa	22	art-design	20	middle-east	19	economy	19	sports	18	soccer	18	food	17	crime	14	world	12	science	12	tennis	11	politics	10	money-policy	9	hockey	9	golf	8	my-real-estate	7	asia-pacific	7	energy	6	dealbook	6	basketball-nba	6	the-upshot	5	football	5	basketball	5	on-the-runway	4	mens-style	4	great-homes-destination	4	europe	4	dance	4	personal-tech	3	books	3	restaurant-search	2	entrepreneurship	2	space-cosmos	1	money	1	health-guide	1	drama	1	destination-home-guide	1	arts	1
+235091609	at-war	2	world	1	terrorism	1	fashion	1	arts	1
+241365665	fashion	1
+269023896	fashion	2812	at-war	37	environment	25	weddings	23	books	22	style	21	well	17	health	17	election	16	asia-pacific	16	education	15	media	14	food	13	dealbook	13	travel	12	health-guide	12	energy	11	automobiles	11	sinosphere	10	soccer	9	commercial-real-estate	9	the-upshot	8	politics	8	nyc-events-guide	8	africa	8	india-ink	7	science	6	cooking	6	business	6	markets	5	golf	5	basketball-college	5	television	4	technology	4	europe	4	terrorism	3	tennis	3	pets	3	economy	3	deal-book	3	crime	3	bits	3	basketball	3	your-money	2	space-cosmos	2	real-estate	2	on-the-runway	2	money	2	middle-east	2	art-design	2	americas	2	world	1	movies	1	mortgages	1	mens-style	1	hockey	1	great-homes-destination	1	football	1	entrepreneurship	1	destination-home-guide	1	arts	1
+275605484	fashion	49	at-war	7	terrorism	6	style	6	health	6	football-college	6	soccer	5	science	3	basketball-college	3	africa	3	well	2	pets	2	food	2	europe	2	economy	2	business	2	automobiles	2	world	1	weddings	1	tennis	1	technology	1	politics	1	movies	1	environment	1	entrepreneurship	1	election	1	education	1	dealbook	1	commercial-real-estate	1	books	1	bits	1	arts	1
+295585728	terrorism	1
+345192837	fashion	15	food	2	style	1	sinosphere	1	science	1	politics	1	football-nfl	1	environment	1	crime	1	books	1	beauty	1	arts	1
+353442866	fashion	1	at-war	1
+354837183	fashion	1
+455279883	americas	1
+462182532	fashion	19	at-war	3	science	2	books	2	weddings	1	politics	1	football-college	1	environment	1	economy	1	commercial-real-estate	1
+504246351	fashion	38	at-war	6	world	3	environment	3	economy	3	books	3	asia-pacific	3	sinosphere	2	health	2	well	1	style	1	sports	1	soccer	1	science	1	music	1	food	1	energy	1	dealbook	1	business	1	africa	1
+606203064	fashion	8	at-war	5	terrorism	2	technology	1	sinosphere	1	europe	1	election	1	economy	1	business	1	basketball-college	1
+617034586	fashion	2397	football-college	68	environment	51	energy	51	health	49	style	43	football-nfl	37	at-war	34	election	28	real-estate	27	pets	25	media	24	automobiles	24	food	23	commercial-real-estate	22	africa	17	weddings	15	politics	15	dealbook	15	india-ink	14	world	12	beauty	11	tennis	10	sports	10	on-the-runway	10	basketball-college	10	your-money	9	well	9	basketball	9	money-policy	8	business	8	books	8	asia-pacific	8	sinosphere	7	science	7	first-draft	7	middle-east	6	europe	6	mens-style	5	economy	5	crime	5	terrorism	4	football	4	basketball-nba	4	the-upshot	3	hockey	3	health-guide	3	travel	2	soccer	2	restaurant-search	2	mortgages	2	money	2	golf	2	education	2	theater	1	television	1	technology	1	personal-tech	1	opinion	1	nyc-events-guide	1	dance	1	arts	1
+1085684486	arts	3	style	1	sports	1	science	1	politics	1	football-nfl	1	fashion	1	commercial-real-estate	1	at-war	1
+1227527958	world	1	science	1	pets	1	media	1	fashion	1
+1271726455	fashion	1182	business	398	at-war	289	sports	213	style	202	terrorism	112	food	96	football-college	75	arts	73	politics	66	science	57	sinosphere	54	basketball-college	37	health	33	election	31	books	31	africa	27	world	23	asia-pacific	21	environment	19	europe	18	beauty	18	football-nfl	17	commercial-real-estate	17	pets	16	automobiles	15	weddings	13	technology	13	soccer	12	media	11	real-estate	10	nyc-events-guide	9	americas	7	well	6	the-upshot	6	economy	6	crime	6	energy	5	tennis	4	restaurant-search	4	my-real-estate	4	money-policy	4	football	4	dance	4	theater	3	opinion	3	movies	3	mens-style	3	hockey	3	dealbook	3	basketball-nba	3	basketball	3	baseball	3	entrepreneurship	2	cooking	2	art-design	2	your-money	1	travel	1	television	1	space-cosmos	1	on-the-runway	1	middle-east	1	health-guide	1	great-homes-destination	1	golf	1	education	1	drama	1	destination-home-guide	1	bits	1
+1294835346	fashion	1
+1424678406	fashion	1
+1574529770	fashion	4	world	1	terrorism	1	style	1	sports	1	europe	1
+1950277680	world	1
+2154152024	science	1
+2510066328	science	1	business	1
+2809828374	fashion	2	arts	1
+2836002698	fashion	748	at-war	487	science	230	health	154	europe	142	food	130	media	122	style	115	automobiles	98	business	85	sports	83	environment	82	books	72	well	60	asia-pacific	60	world	58	soccer	48	art-design	44	golf	43	cooking	36	politics	35	energy	34	the-upshot	33	on-the-runway	31	hockey	29	terrorism	24	americas	21	dealbook	20	movies	19	sinosphere	18	crime	14	football-nfl	12	technology	11	entrepreneurship	8	basketball-nba	8	africa	7	restaurant-search	6	tennis	5	opinion	5	great-homes-destination	5	election	5	bits	5	television	4	music	4	basketball	4	money-policy	3	money	3	mens-style	3	economy	3	drama	3	real-estate	2	nyc-events-guide	2	my-real-estate	2	first-draft	2	destination-home-guide	2	arts	2	travel	1	theater	1	space-cosmos	1	markets	1	health-guide	1	football-college	1	baseball	1
+3048544857	fashion	102	real-estate	2	pets	1	nyc-events-guide	1	automobiles	1
+3165710186	fashion	7	world	1	well	1	basketball-nba	1	at-war	1
+3219108581	food	1
+3225496844	fashion	9	books	2	style	1	europe	1
+3278207173	fashion	446	sinosphere	79	at-war	78	economy	58	health	49	world	41	asia-pacific	41	africa	37	well	36	basketball-college	32	technology	30	soccer	21	terrorism	20	style	17	business	17	commercial-real-estate	15	science	14	real-estate	12	media	10	politics	9	football-college	9	environment	8	automobiles	8	europe	7	energy	7	beauty	7	on-the-runway	5	money-policy	5	election	4	football	3	books	3	weddings	2	the-upshot	2	sports	2	my-real-estate	2	golf	2	bits	2	your-money	1	space-cosmos	1	pets	1	nyc-events-guide	1	india-ink	1	hockey	1	great-homes-destination	1	entrepreneurship	1	education	1	baseball	1
+3300579264	fashion	5
+3380828067	fashion	789	environment	88	technology	54	science	42	asia-pacific	29	politics	28	sports	27	election	21	basketball-college	21	books	18	at-war	16	soccer	15	europe	14	cooking	13	commercial-real-estate	11	sinosphere	10	business	8	media	7	economy	7	nyc-events-guide	4	golf	4	football-college	4	style	3	mens-style	3	food	3	destination-home-guide	3	music	2	energy	2	africa	2	weddings	1	the-upshot	1	on-the-runway	1	mortgages	1	great-homes-destination	1	dealbook	1	crime	1	bits	1	baseball	1
+3635899574	fashion	623	at-war	81	arts	75	election	26	sinosphere	22	environment	21	science	19	world	18	politics	15	terrorism	11	sports	11	business	11	asia-pacific	11	health	9	europe	9	africa	9	americas	7	pets	6	energy	6	media	5	great-homes-destination	4	food	4	books	4	soccer	3	restaurant-search	3	economy	3	automobiles	3	the-upshot	2	technology	2	middle-east	2	golf	2	destination-home-guide	2	cooking	2	your-money	1	well	1	style	1	real-estate	1	personal-tech	1	on-the-runway	1	movies	1	money-policy	1	markets	1	india-ink	1	health-guide	1	football-college	1	education	1	drama	1	dealbook	1	crime	1	basketball-nba	1	basketball-college	1	basketball	1
+714344257042010112	sports	1	fashion	1
+742891296822419456	fashion	29	business	3	football-college	1	books	1	africa	1
+701333393405968384	business	1
+4416945086	fashion	83	at-war	6	world	3	style	3	sinosphere	3	terrorism	2	science	2	money-policy	2	election	2	africa	2	technology	1	sports	1	india-ink	1	health	1	football-college	1	environment	1	economy	1	asia-pacific	1	art-design	1
+786381114138951680	world	1	fashion	1	africa	1
+714030928738197505	arts	1
+860443604040286209	fashion	2	europe	1	at-war	1
+780476339916713985	fashion	70	arts	66	politics	33	sports	32	americas	30	style	27	business	25	books	19	at-war	19	science	15	europe	15	nyc-events-guide	11	election	10	real-estate	9	television	5	weddings	4	world	3	theater	3	movies	3	golf	3	pets	2	media	2	travel	1	tennis	1	middle-east	1	health	1	first-draft	1	education	1	economy	1	destination-home-guide	1	dealbook	1	cooking	1	commercial-real-estate	1
+923585040830824449	fashion	2	sports	1	science	1	election	1	at-war	1
