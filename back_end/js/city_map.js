@@ -1,101 +1,4 @@
 var map;
-var city_details
-/*
-var city_data = [
-{
-	"Lat":-37.8136,
-	"Lng":144.9631,
-	"content":{"name":"Melbourne",
-	Pos:"Pos:80%",
-	Neg:"Neg:20%" }
-},
-{
-	"Lat":-33.866,
-	"Lng":151.196,
-	"content":{"name":"Sydney",
-	Pos:"Pos:70%",
-	Neg:"Neg:30%" }
-
-},
-{
-	"Lat":-27.4698,
-	"Lng":153.0251,
-	"content":{"name":"Brisbane",
-	Pos:"Pos:75%",
-	Neg:"Neg:25%" }
-
-},
-{
-	"Lat":-31.9505,
-	"Lng":115.8605,
-	"content":{"name":"Perth",
-	Pos:"Pos:80%",
-	Neg:"Neg:20%" }
-
-}];
-
-var city_details = 
-	
-	{	"city_name" : "Melbourne",
-		"totalTweet" : 1000,
-		"totalPos": 200,
-		"totalNeg": 800,
-		"income" : 0.8,
-		"health" : 0.6,
-		"trafficAccident" : 300,
-		"suburbs" : {
-			"carlton" : {
-				"totalTweet" : 253,
-				"totalPos": 100,
-				"totalNeg": 153,
-				"income" : 0.7,
-				"health" : 0.5,
-				"trafficAccident" : 456,				
-			},
-			"boxhill" : {
-				"totalTweet" : 456,
-				"totalPos": 201,
-				"totalNeg": 255,
-				"income" : 0.9,
-				"health" : 0.6,
-				"trafficAccident" : 245,				
-			},
-			"kew" : {
-				"totalTweet" : 126,
-				"totalPos": 51,
-				"totalNeg": 75,
-				"income" : 1.0,
-				"health" : 0.5,
-				"trafficAccident" : 324,				
-			},
-			"westmelbourne" : {
-				"totalTweet" : 250,
-				"totalPos": 160,
-				"totalNeg": 90,
-				"income" : 0.95,
-				"health" : 0.55,
-				"trafficAccident" : 424
-			},
-			"northmelbourne" : {
-				"totalTweet" : 350,
-				"totalPos": 60,
-				"totalNeg": 290,
-				"income" : 0.35,
-				"health" : 0.75,
-				"trafficAccident" : 24
-			},
-			"southbank" : {
-				"totalTweet" : 550,
-				"totalPos": 300,
-				"totalNeg": 250,
-				"income" : 0.99,
-				"health" : 0.25,
-				"trafficAccident" : 567
-			}
-		}
-	}
-
-*/
 
 function d3show(city_data){
 	 var overlay = new google.maps.OverlayView();
@@ -115,44 +18,16 @@ function d3show(city_data){
                     .each(transform);
 
                 var r =38;
-                
-
-              	marker.append("text")
-                	  .text(function(d){
-                	  	return d.content.name;
-                	  })
-                      .attr("x",10)
-                      .attr("y",20)
-                      .attr("font-size", 15)
-                      .attr("font-family", "simsum");
-
-                	marker.append("text")
-                	  .text(function(d){
-                	  	return d.content.Pos;
-                	  })
-                      .attr("x",10)
-                      .attr("y",40)
-                      .attr("font-size", 15)
-                      .attr("font-family", "simsum");
-
-                	marker.append("text")
-                	  .text(function(d){
-                	  	return d.content.Neg;
-                	  })
-                      .attr("x",10)
-                      .attr("y",60)
-                      .attr("font-size", 15)
-                      .attr("font-family", "simsum");
 
                 marker.append("circle")
                     .attr("cx",padding)
                     .attr("cy",padding)
                     .attr("r",r)
                     .attr("stroke","#dc3912")
-                    .attr("stroke-opacity",0.6)
+                    .attr("stroke-opacity",0.7)
                     .attr("stroke-width","2px")
                     .attr("fill","#dc3912")
-                    .attr("fill-opacity",0.6)
+                    .attr("fill-opacity",0.7)
                     .attr("id",function(i){
                     	return "Marker"+i;
                     })
@@ -168,6 +43,33 @@ function d3show(city_data){
   						getCityDetail(d.content.name);
   						
                     });
+
+                    marker.append("text")
+                	  .text(function(d){
+                	  	return d.content.name;
+                	  })
+                      .attr("x",10)
+                      .attr("y",15)
+                      .attr("font-size", 15)
+                      .attr("font-family", "simsum");
+
+                	marker.append("text")
+                	  .text(function(d){
+                	  	return d.content.Pos;
+                	  })
+                      .attr("x",10)
+                      .attr("y",35)
+                      .attr("font-size", 15)
+                      .attr("font-family", "simsum");
+
+                	marker.append("text")
+                	  .text(function(d){
+                	  	return d.content.Neg;
+                	  })
+                      .attr("x",10)
+                      .attr("y",55)
+                      .attr("font-size", 15)
+                      .attr("font-family", "simsum");
                 
                 
 
@@ -235,7 +137,7 @@ function initMap()
 }
 
 function getCityDetail(cityName){
-	console.log("beginCity");
+	//console.log("beginCity");
 	var url = '/sentiment_result/json/city/'+cityName;
 	var getData = $.ajax({
     url:url,
@@ -245,7 +147,7 @@ function getCityDetail(cityName){
     }).done(function (res) {
     city_details = res;
     showStatistic(city_details);
-    console.log(city_details);
+   // console.log(city_details);
     
     });
 }
@@ -275,10 +177,10 @@ var ctx = document.getElementById('myChart').getContext('2d');
 var lineData = city_details;
 //var x_labels = Object.keys(lineData.suburbs);
 var x_labels = $('#suburb').val();
-console.log(x_labels);
+//console.log(x_labels);
 var totalTweet = [];
 var totalPos = [];
-var percent = [];
+//var percent = [];
 var income = [];
 var health = [];
 //var traffic = [];
@@ -288,7 +190,7 @@ if(x_labels.indexOf(key) >= 0){
 	var temp = lineData.cities[key];
  	totalTweet.push(parseFloat(temp.totalTweet));
  	totalPos.push(parseFloat(temp.totalPos));
- 	percent.push(parseFloat(temp.totalPos)/parseFloat(totalTweet));
+ 	//percent.push(parseFloat(temp.totalPos)/parseFloat(totalTweet));
  	income.push(parseFloat(temp.income));
  	health.push(parseFloat(temp.health));
  	//traffic.push(parseFloat(temp.trafficAccident));
@@ -317,7 +219,7 @@ var max_pos = temp2[temp2.length-1];
 for(var i = 0; i<totalPos.length; i++){
 	totalPos[i] = 0.2 + 0.8*(totalPos[i]-min_pos)/(max_pos - min_pos);
 }
-
+/*
 var temp3 = [];
 for(var i = 0; i<percent.length; i++){
 	temp3.push(percent[i]);
@@ -328,7 +230,7 @@ var max_p = temp3[temp3.length-1];
 for(var i = 0; i<percent.length; i++){
 	percent[i] = 0.2 + 0.8*(percent[i]-min_p)/(max_p - min_p);
 }
-
+*/
 var temp4 = [];
 for(var i = 0; i<income.length; i++){
 	temp4.push(income[i]);
@@ -394,7 +296,7 @@ document.getElementById('totalTweet').addEventListener('click', function() {
 			count1++;
 			if(count1%2 == 1){
 				var newDataset = {
-				label: "total tweets",
+				label: "Total Tweets",
             	backgroundColor: colores_google(1),
             	borderColor: colores_google(1),
             	data: totalTweet,
@@ -421,7 +323,7 @@ document.getElementById('totalPos').addEventListener('click', function() {
 			count2++;
 			if(count2%2 == 1){
 				var newDataset = {
-				label: "total positive tweets",
+				label: "Total Positive Tweets",
             backgroundColor: colores_google(2),
             borderColor: colores_google(2),
             data: totalPos,
@@ -443,7 +345,7 @@ document.getElementById('totalPos').addEventListener('click', function() {
 			}
 			
 		});
-
+/*
 document.getElementById('percent').addEventListener('click', function() {
 			count3++;
 			if(count3%2 == 1){
@@ -470,12 +372,13 @@ document.getElementById('percent').addEventListener('click', function() {
 			}
 			
 		});
+*/
 
 document.getElementById('income').addEventListener('click', function() {
 			count4++;
 			if(count4%2 == 1){
 				var newDataset = {
-            label: "income",
+            label: "Income",
             backgroundColor: colores_google(4),
             borderColor: colores_google(4),
             data: income,
@@ -502,7 +405,7 @@ document.getElementById('health').addEventListener('click', function() {
 			count5++;
 			if(count5%2 == 1){
 				var newDataset = {
-            label: "health",
+            label: "Health",
             backgroundColor: colores_google(5),
             borderColor: colores_google(5),
             data: health,

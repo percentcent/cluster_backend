@@ -19,7 +19,7 @@ var crowd = {
 		]
 	};
 
-var timeSet = [["1","2","3","4"],["5","6","7","8"],["9","10","11","12"],["13","14","15","16"],["17","18","19","20"],["21","22","23","0"]];
+var timeSet = [["0","1","2","3"],["4","5","6","7"],["8","9","10","11"],["12","13","14","15"],["16","17","18","19"],["20","21","22","23"]];
    
 
 function transformCrowdData(data){
@@ -82,7 +82,7 @@ function d3show(crowd_data){
                             return colores_google(6);
 
                     })
-                    .attr("stroke-opacity",0.7)
+                    .attr("stroke-opacity",0.65)
                     .attr("stroke-width","2px")
                     .attr("fill",function(d){
                         if(timeSet[0].indexOf(d.time) >= 0)
@@ -98,7 +98,7 @@ function d3show(crowd_data){
                         else 
                             return colores_google(6);
                     })
-                    .attr("fill-opacity",0.7);
+                    .attr("fill-opacity",0.65);
           
 
                     function transform(d){

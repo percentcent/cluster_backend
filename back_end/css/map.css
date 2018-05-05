@@ -158,23 +158,20 @@
         }
 
         #totalPos{
-            margin-left: 160px;
+            margin-left: 180px;
         }
 
-        #percent{
-            margin-left: 270px;
-        }
-
+        
         #income{
-            margin-left:380px;
+            margin-left:310px;
         }
 
         #health{
-            margin-left: 490px;
+            margin-left: 440px;
         }
 
         #traffic{
-            margin-left:600px;
+            margin-left:490px;
         }
 
         #choose{

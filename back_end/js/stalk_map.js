@@ -39,7 +39,7 @@ function transformUserData(data){
 }
 
 function getUserInfo(input){
-    console.log(input);
+   // console.log(input);
     var search = document.getElementById('myInput');
     search.value = input.toString();
     var url = '/sentiment_result/json/stalking/' + input;
@@ -50,32 +50,36 @@ function getUserInfo(input){
     dataType:'json',
     }).done(function (res) {
     var userInfo = res;
-    console.log(userInfo);
+   // console.log(userInfo);
     var userData;
     userData = transformUserData(userInfo);
-    var Lat = 0;
-    var Lng = 0;
+    
+    var Lat = -28.024;
+    var Lng = 135.887;
+    /*
     for(var i=0; i<userData.length;i++){
         Lat += userData[i].Lat;
         Lng += userData[i].Lng;
     }
     Lat = Lat/userData.length;
     Lng = Lng/userData.length;
+    */
     var newCenter ={
         lat: Lat,
         lng: Lng
     }
 
     map.setCenter(newCenter);
-    map.setZoom(12);
+    map.setZoom(5);
     d3Show(userData,userInfo);
 
     });
 }
 
 function d3Show(userData,userInfo){
-    var timeSet = [["01","02","03","04"],["05","06","07","08"],["09","10","11","12"],["13","14","15","16"],["17","18","19","20"],["21","22","23","24"]];
-    deleteOverlay();
+    var timeSet = [["0","1","2","3"],["4","5","6","7"],["8","9","10","11"],["12","13","14","15"],["16","17","18","19"],["20","21","22","23"]];
+
+     deleteOverlay();
     var overlay = new google.maps.OverlayView();
     overlaySet.push(overlay);
     
@@ -228,8 +232,8 @@ function deleteOverlay()
 function initMap()
 {
     map = new google.maps.Map(document.getElementById('stalk_map'),{
-        zoom: 10,
-        center: { lat: -37.814, lng: 144.96332 },
+        zoom: 5,
+        center: { lat: -28.024, lng: 135.887 },
         styles:[
   {
     "featureType": "poi.business",
@@ -258,7 +262,7 @@ function initMap()
     dataType:'json',
     }).done(function (res) {
     var userList =res;
-    console.log(userList);
+   // console.log(userList);
     initialUserList(userList);
 
     });

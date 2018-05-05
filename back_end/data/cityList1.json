@@ -3,7 +3,7 @@
     {
       "Lat": -37.8136,
       "content": {
-        "Neg": "Pos:51.60%",
+        "Neg": "Neg:51.60%",
         "name": "Melbourne",
         "Pos": "Pos:48.40%"
       },
@@ -12,7 +12,7 @@
     {
       "Lat": -33.866,
       "content": {
-        "Neg": "Pos:50.35",
+        "Neg": "Neg:50.35",
         "name": "Sydney",
         "Pos": "Pos:49.65%"
       },
@@ -21,7 +21,7 @@
     {
       "Lat": -27.4698,
       "content": {
-        "Neg": "Pos:51.38%",
+        "Neg": "Neg:51.38%",
         "name": "Brisbane",
         "Pos": "Pos:48.62%"
       },
@@ -30,7 +30,7 @@
     {
       "Lat": -31.9505,
       "content": {
-        "Neg": "Pos:52.22%",
+        "Neg": "Neg:52.22%",
         "name": "Perth",
         "Pos": "Pos:47.78%"
       },

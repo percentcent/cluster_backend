@@ -7,7 +7,7 @@ var nano = require('nano')('http://115.146.86.201:5984');
 var bodyParser = require('body-parser');
 var fs = require("fs");
 
-var melbourne_obj = JSON.parse(fs.readFileSync(path.join(__dirname,'/data/timeTwi1.json')));
+var melbourne_obj = JSON.parse(fs.readFileSync(path.join(__dirname,'/data/timeTwi.json')));
 var tracking_obj = JSON.parse(fs.readFileSync(path.join(__dirname,'/data/tracking_0503.json')));
 var cityList_obj = JSON.parse(fs.readFileSync(path.join(__dirname,'/data/cityList1.json')));
 var cityDetail_obj = JSON.parse(fs.readFileSync(path.join(__dirname,'/data/cityDetail1.json')));
@@ -149,7 +149,7 @@ app.get('/streams',function(req,res){
     var id_list = [];
     for(var i=results.length-100; i<results.length; i++){
     	var id = results[i].id;
-    	console.log(id);
+    	//console.log(id);
     	id_list.push(id);
     	/*
     	stream.get(id,function(err,body){
@@ -205,7 +205,7 @@ app.post('/streams/change',function(req,res){
     var id_list = [];
     for(var i=pre_index ; i<results.length; i++){
     	var id = results[i].id;
-    	console.log(id);
+    	//console.log(id);
     	id_list.push(id);
     	/*
     	stream.get(id,function(err,body){
