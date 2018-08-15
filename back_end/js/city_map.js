@@ -1,5 +1,5 @@
 var map;
-
+var chart;
 function d3show(city_data){
 	 var overlay = new google.maps.OverlayView();
     overlay.onAdd = function(){
@@ -283,7 +283,7 @@ var config = {
     }
 
 };
-var chart = new Chart(ctx, config);
+chart = new Chart(ctx, config);
 
 var count1=0;
 var count2=0;

@@ -35,7 +35,7 @@ function initMap()
     dataType:'json',
     }).done(function (res) {
     
-   // console.log(res);
+   console.log(res);
     pre_index = res.num;
     tweetData = res.data;
     d3show(tweetData);
@@ -68,7 +68,7 @@ function getNewTweet(){
     dataType:'json',
     }).done(function (res) {
     
-  //  console.log(res);
+  console.log(res);
     pre_index += res.length;
     var data = res;
     for(var i=0; i<data.length; i++){

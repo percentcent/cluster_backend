@@ -145,9 +145,9 @@ app.get('/streams',function(req,res){
     var lng;
     var text;
     var results = body.results;
-    //console.log(results);
+    console.log(results.length);
     var id_list = [];
-    for(var i=results.length-100; i<results.length; i++){
+    for(var i=0; i<100; i++){
     	var id = results[i].id;
     	//console.log(id);
     	id_list.push(id);
@@ -185,6 +185,7 @@ app.get('/streams',function(req,res){
     		data:sendData
     	};
     	res.json(send);
+      console.log(send);
   	}
     });
  

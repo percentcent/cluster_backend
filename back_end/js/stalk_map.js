@@ -1,5 +1,6 @@
 var map;
 var overlaySet = [];
+var myBarChart;
 function searchUser() {
    //define variables
     var input, filter, ul, li, a, i;
@@ -189,7 +190,7 @@ function showLike(userInfo){
     };
 
     var ctx = document.getElementById('likeChart').getContext('2d');
-    var myBarChart = new Chart(ctx, {
+    myBarChart = new Chart(ctx, {
     type: 'horizontalBar',
     data: bardata,
     options: {
